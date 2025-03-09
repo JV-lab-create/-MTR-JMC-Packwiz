@@ -1,0 +1,13 @@
+name = "JMC MTR Lets Play Server"
+author = "Jake Vento (JMC Team)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4a621b1d9c777952a39de99ac816aee86e25e13adafc46918e66493ecd65756c"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.19.2"
