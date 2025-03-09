@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "a.gitattributes"
-hash = "73376dbcc71b5eeb1c9ce3b3492cf744b4704f684c23bbdd756def3f0a8741d0"
-
-[[files]]
-file = "a.gitignore"
-hash = "0a59c85dba2f1169b3c9486ca512e061a85e2b64ef3e56f79431101792945102"
-
-[[files]]
-file = "a.packwizignore"
-hash = "6b99b38e4a91738915969cc8ed30880274bf41cd2a0b4cf670697550fc910359"
-
-[[files]]
 file = "config/fancymenu/assets/button_netral.png"
 hash = "5a7af863b2e350e5e0d83e6c8574ad8983135fdaaaf08c62acb8d9fdb2f7cbb9"
 
@@ -561,4 +549,5 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "d240d3fa6383e3ff875cbd30b403dfcfb58ee67603df55c384beb7bc43c576c8"
 metafile = true
+
 
