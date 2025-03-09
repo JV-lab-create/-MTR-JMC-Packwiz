@@ -1,6 +1,286 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/button_netral.png"
+hash = "5a7af863b2e350e5e0d83e6c8574ad8983135fdaaaf08c62acb8d9fdb2f7cbb9"
+
+[[files]]
+file = "config/fancymenu/assets/button_selected.png"
+hash = "182713cf169302920cb1fbf3386e924c69bb06979eb440af98cd9a6f444d9f7d"
+
+[[files]]
+file = "config/fancymenu/assets/dog.ogg"
+hash = "08636dc04a55e7f1e95a294b1550b92b35db0d16868904827f97b8e26a37540b"
+
+[[files]]
+file = "config/fancymenu/assets/join_button_netral.png"
+hash = "e7a197a1b863fc085b468595f7eeef5f6c5abe773ac30600de4210251a6eba6a"
+
+[[files]]
+file = "config/fancymenu/assets/join_button_selected.png"
+hash = "d5c5f71fee6a06a72367c937d0c12f7de6139f06483dbee165ec56483ab634b5"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft_title.png"
+hash = "b1586fe9812cdc1bd3d9ac27cd2118eaec8176be145d924266bc5bb8d110c3ff"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
+
+[[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "88bdd358fc5fe4450fbdc13325e1c80d880dafae92e212d4642bc446d77e594f"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "a885e107bdc37650da58a979f6406d4f8f3db3a100670ac9f4c9ca191e25e788"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "6a6df47f97ad03409301fc5ad9e0f3edeeb6e7588f7b464038e876b1e8db91cf"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/0dd44bf2450ea578a2edcab7a10c9887e0b3808d.png"
+hash = "15a31fa2e891b26d91d4e17e3477e01861c49150b860e2def9b6bf62013bd672"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/0e745ddcaebaed2331e87bbe6208671488aef7cf.png"
+hash = "9fe54044123bf823256885c0f7857129ca959a2a8ab463fd29f301b8cb849be5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/152b979b94b3a1e47140821af9c2c3ced6f89d00.png"
+hash = "59e329b52585cd6e8e91e333eb2a4853adfdaa90c0d9d26bf8ebd6815f82d3e5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/1650d467e1b0ba920b2c5a140b348c88eec5d14b.png"
+hash = "d03daa0170d5a45c43d983075f70d859ec4466d1a71b6713e25f7243b17bf033"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/19aa8063786d0212d800f806ff42167acb8de8ca.png"
+hash = "287f5884006f7b63ed25f0762906117d3dcf7895cf4eb402f33875ea74e99ab5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/236a062567928fc065a2b71cd9906ada71d021d1.png"
+hash = "314ded39c9990673dc44db6c666fb0ccce13c565ad126eac52a2a11029c62d3a"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/28548ac9850a3c107f651c9d9bfc6a647f976c6e.png"
+hash = "65fd0521a9e5fd65156c582552757dfbf4c941cf857c0296bf84bd284f58d071"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/2af216f1812b58451a4c940af17af17017569aba.png"
+hash = "647f62a1f8d63dc572e66047322e57d4b470903f7aa3af2ae39bb9e228cdd1d0"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/32541a495ea2ca8f54d34b6fb729bb44656e8f7d.png"
+hash = "85ef61106b41556f2e7a2b569d0c4b569f6bf3a83771ea41672402f0a19a49b8"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/3fa49511ed753f2a146cde846f7f50aae9ff7609.png"
+hash = "add96e9fb9150a82212e00a68bcf0b7cd7b73d1acf0bd7f1555a0c5d266aa76d"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/416fa6812631691e445affa5c49f4414e7c130f2.png"
+hash = "3ee3b6b7f29e091b9af4e79450c9aeacb13fc7f7620a6c498e97babdac9b2e84"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/44c92d21e37d722a1badd80ef04e173e1e57faaf.png"
+hash = "95311748ea57f19f0d6eb069097f82ef598eca6e53a05817def3d509c2f79fe5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/4e483141a628ed9137cd0466b2548e92345acb60.png"
+hash = "23d97198f54f3372a527e51367485a607c1da925ea18388398a01e5ab4ed09b8"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/4e86ffc0a4bf182e0d447d75eb049c8536b95aa9.png"
+hash = "560e6adcd3fccd50078db583f9174d5ed31f45bab3aef1405d6be1778c5cf40a"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/4f39565c0465a9d84a8059c0ae5c2a2a8ae98a62.png"
+hash = "93a750804285338ce094b985166c80dd90be4b5c3fbd0ba0049f5239706233a1"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/54573f68b1187ae65a34928a43fb7b4799577489.png"
+hash = "bafaf36d600b91643878518759a44fa0fec44823914fbb34f78ce201692fb299"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/55590e455269c2cbb10375b1eaf1eac6b3e475b7.png"
+hash = "d7ae586b82c3e8cc128d7c7b53e68cdf3eec56f8bcc27de35dec29c792087d51"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/5601d00bdafbdee8ccf2fd91d286b02fe4f975e6.png"
+hash = "dd5e77d393413955fccabc64905a8ae5435bbe67ca05703a18a99db72f0a6ecf"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/5aac3dda7c6d47d02f5b8c8f3c08829ea16e58c4.png"
+hash = "6aeb062a358a2abdd0da65a7d4a744f90bbf148add47a5a6fae53f0c3031cf72"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/5eeb7efb6f14acf7c35431eaacf584f9045154d4.png"
+hash = "d79d4e729fea5d35060b251298ccdefcb0e5534a61e754ea0062559347e2b453"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/607d12f03b39dd22dc8b678676909725dfc23480.png"
+hash = "c66e83d4cab3c507afa58cd22e72abc61a529793bb129ea08a9e02c19c9445f3"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/7108320120d2677f133a9f251889242c003e507e.png"
+hash = "d49a6c1879ab308c6df7c4547c1be874199acc35e72c99a8e2d26df0d63df87b"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/7209ab8236080cfd5988f7f3834823d8f4fa2388.png"
+hash = "7296b16aa35ecb4a34b8ced5f11918465e454629547a469e86fff02b5da835ca"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/742c03af0e5cfa3a3189678c14942865103a2a59.png"
+hash = "d92588f4cfbb9d4160678f7bc349c18dab66343c8a648ef3491e793bd45bd99d"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/75cc81b68e0d36baa880c4dec5da273cc3259782.png"
+hash = "4a9cd1615939283583bdf75ed3602a074d1d14ed0434a3c7ced674a8f5dc0700"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/8061eada610ff7d597b971003945e8fc17aea169.png"
+hash = "35ab53cf1eb60be329efe433c86fc7854628b5daf85b3ad49461ee16ca308aa5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/817460727a3e17b7608d4e3c90c657bd52011368.png"
+hash = "a23805c9e13a42e72a0eaeee872d35cd61afb2d79227902bd568d0746a82116a"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/8575e6ddac108f353a7554fb8764d42c5d107be4.png"
+hash = "78e29a20a4bf0a07ed8906d12936fcf432d39b32d4e213b4168c764d1eaa78f1"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/873fd0c88cec46486a4d4bebbc5c5cf54122e2a5.png"
+hash = "be07217097f213c3b1a11f3ff477b3d8608eeab672b00a6e9b336f9f837bc7b3"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/89b84dccbc91ab07aa9c711d4fedb625cfec929a.png"
+hash = "4ca19b859ab3e39c34bb64c702fe64f30289df7ee7d92e3537cb28578f738b21"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/8fe405bfca722ae2a2c9a1851a510964cfec353f.png"
+hash = "d84bc79819ed56c8536507f579eb3da88a8de56f869f9fc082b227882cfc73d5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/9115ff843d1f7e6ca7c13eda54ef94e0d721af5c.png"
+hash = "64444e9a5a0fdb5605bdb30238131db7f52d13eeff6892df1b15643bfa57385f"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/96ce49705c469ea11b7d1d13fed3a2f219a46bbb.png"
+hash = "f07bdd52adab650a24369ca697fa4265f1ece3196d217238f187761e6691dca6"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/979f686534fb2824097cf6af601b5f5f9bc75980.png"
+hash = "12b58755dc139cb8aee1e52e9346964540a40e5d2b864cd6962c546dbe4b6a2e"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/98e1b5427886ab3c65eccf3bd41b111efb4f866d.png"
+hash = "15ab23950293e65b01b9e0a457cda5cdbba3023eb9c2b5bd92bff96942b4de28"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/9dc7e24325e4f7f843040f155cc69d389b642403.png"
+hash = "852c325d6ea39d464ff9d9ae18dfbb194955c9a0f951584e26234c994830ce92"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/9eee01420601d907acd9a56f4ada4d8170f3bee6.png"
+hash = "ec93072989e734c8ec546030a5fc7180a364a884fb078e74435c78d18ff5ef68"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/a30b60cf3efccf1f0ce64ac70c21f42b2dc4cbeb.png"
+hash = "aca8ff1b4f8cf7c1350e9ef0ac3e5bba4a1e43dc671420af7d700ee4cf1eb438"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/a8f70f900e7d9a8444fbef076a0eb29fdb374b0f.png"
+hash = "ed53ac47429a099919925ddd3cfad1b0bd6cb715e56b400ff00fecc1c662bb13"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/ab3ceb08b9e96c9e5a6849df62797803d8719ab1.png"
+hash = "2e854c0d58c9d83ac7ab65057c165cdeab878d5aba75fddac549f738c7676d30"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/ac634f82bce2e7d4a7f8c37ec8747b5c0642205e.png"
+hash = "25a671f1dcfb7ed019ad73f7cbfd88950b8eb12d182847787bce6ee7b1076635"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/acc8e7605645470f5bf0272017cca41f53339de8.png"
+hash = "eb0aca803124ca7303df337f2fd52ed2ce16b1ebb81c968abbe8d7a050d2dae5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/aed485feffadb6237d1f5518e7945da8a45ce267.png"
+hash = "9ae2c261176222704caeb07261a7eef07150b097863c24b0cec92f64cc9d9922"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/b233a4f22135b980323fb3f3051b68b579984da7.png"
+hash = "98fed1baa1eebb67728d2b308239a33c17dae0cf3546d190d5532d410a7d8890"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/b480e9cb62376b9dd94b1924299a9f88f1820778.png"
+hash = "0ec91fc7d6483774dfd428fce795cbdf3996f4512e325dbef4ff1647801c94a0"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/b597a77c498027d1788d882e70206b92013c81fe.png"
+hash = "453158c4a330974b8854254eda5f1dcae459fe1102f8d93a1a358f2ad9f4fefc"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/c4c2e7a94c756325bd4451c4d40885337c9ddd55.png"
+hash = "1584379b2ab28d339f8e34155c995d8433def2fb38a3b746cb20e841c099777d"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/c63051d19d939a87f6fdfa0519d1cdcf7d948aac.png"
+hash = "b5fbfd55813a6cbdca559bab6fd4fc3e5e20c4f694e336209bf8a0e58cf2dd74"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/c88bb40f14dfacea3788baa3e4b4fbbe1241a705.png"
+hash = "70b41633a18e8ed6cc17cf89a74b1550d4ebfe7c6029512e1335142b5aaf9f88"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/d1731ca3252e1b546557035d17b141390a5f1067.png"
+hash = "1062e5d4ccc7e3539b70bde79aca2caa52c5783457861a779435f0e3bbadfe07"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/d2dd213055723deee1e52e9ff67e49e5780d9b05.png"
+hash = "2f80d81e05ad6c350aa4c1e0a992cd5dd8feda9cbd9e84b4586bd83aa2ef5700"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/e5122eb3cb38e34b6924bef0643d2325fdd24b16.png"
+hash = "f18daed7340e94fa0b0e6fab3d9bdc51bf841eff94cf769b74ca8b1d4b419a69"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/e5aaf27fad4f2e3eb515241bb801bc56a0580dde.png"
+hash = "00182361d24d2f0d2b74d6e42e98a5cc54fe44e2e71772bccc42eb6a9e1ef138"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/e72eb3f6926effd6d72d7d0901a20dbdcdd66768.png"
+hash = "d250789d74203b052b300920e074c13a5bb8d41405a213639cf22b5c5635edbb"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/f4b29c1de15524c76c66eb367af3533e6c2e53fd.png"
+hash = "86d02f610c61739feaaa8738143cb376ece9b35662f4f6c65dce63429218bfb1"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/f5e19b6dde0a0945e2bf7e3afc673867ee205081.png"
+hash = "6a18836f6061dd768afef533544baa3f997e26fb5d13ad7569a0d655db7f8cb5"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/f61f47c68037b5b678b795bed9f545403e7a481f.png"
+hash = "b45c3a11a9ae3fec0b2210466b8e4447dfb3d2444685339d9aaf6912d287df67"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/images/fd508bbe18e565e74c0592540b12a681429a51b3.png"
+hash = "eb938fe2c87eada3a50af2ad7f6f559b8e32e23ba71adab83dec06d4f008ccac"
+
+[[files]]
+file = "config/fancymenu/slideshows/train_slideshow/properties.txt"
+hash = "f14a55052619019787a1ed3e81e4d5a015ad1a096e4e47dd0ebe577a61894dc5"
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
 metafile = true
@@ -62,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
-hash = "31438f9090584f3be6386ba0a5178df0d69fa9b5d7f5e5f7d1b381bb7d503e0b"
+hash = "ffde99bd776b13a7128932c5fbe5d25eabc9e610fb91fbb78d0475c4cd7e5fef"
 metafile = true
 
 [[files]]
@@ -247,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "61f75318d7335953e82b4504a91bd002822e863ee309e5a848ed6865409716de"
+hash = "84e0f635677ebf11d944f3fb7dab042d83f485b06dafb042e16c66b5cd2f4ba6"
 metafile = true
 
 [[files]]
@@ -267,5 +547,6 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "bd1627964e1f741c66769495732a2402e955499ad8e3c1d77adb24ac89ea35b3"
+hash = "d240d3fa6383e3ff875cbd30b403dfcfb58ee67603df55c384beb7bc43c576c8"
 metafile = true
+
