@@ -366,6 +366,11 @@ hash = "254f19f55b690b9574aa03bca41bf785a21396feb6d2cb2ca472252f2482f3a2"
 metafile = true
 
 [[files]]
+file = "mods/fm-resource-pack-updater.pw.toml"
+hash = "24de8ac11aca61061819c2f33f85608a22bbf971997464ca6e34985f1fa7f270"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "b887264366439ec55a7efb2411de72752f854e58a5b6f93243448c54c6f30c05"
 metafile = true
@@ -468,6 +473,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "b923d51acf2d0a41dbc29ccc2e0d124aedd52a3daea1516337ce1e1fbe26daff"
 metafile = true
 
 [[files]]
