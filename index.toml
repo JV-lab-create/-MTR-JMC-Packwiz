@@ -1,40 +1,84 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/button_netral.png"
-hash = "5a7af863b2e350e5e0d83e6c8574ad8983135fdaaaf08c62acb8d9fdb2f7cbb9"
+file = "config/fancymenu/assets/b.png"
+hash = "662e8289ff060d76a1c7863d1f3282fc27526bf7f612811b2833ef8f054f6553"
 
 [[files]]
-file = "config/fancymenu/assets/button_selected.png"
-hash = "182713cf169302920cb1fbf3386e924c69bb06979eb440af98cd9a6f444d9f7d"
+file = "config/fancymenu/assets/b2.png"
+hash = "58eacf6182dd05f078dd582fdc71a8f12fb7c341159d786ef6fc5cb4d6fd9c4d"
 
 [[files]]
-file = "config/fancymenu/assets/dog.ogg"
-hash = "08636dc04a55e7f1e95a294b1550b92b35db0d16868904827f97b8e26a37540b"
+file = "config/fancymenu/assets/back.png"
+hash = "ca65a52f173ee43e9d0ebc94009b0e333035681f7d5159aed3c4b9e862870b2e"
 
 [[files]]
-file = "config/fancymenu/assets/join_button_netral.png"
-hash = "e7a197a1b863fc085b468595f7eeef5f6c5abe773ac30600de4210251a6eba6a"
+file = "config/fancymenu/assets/back2.png"
+hash = "a7dc72f84f70723a95866157c315bc1255f80801de53e4cb643d13f18ccc0a08"
 
 [[files]]
-file = "config/fancymenu/assets/join_button_selected.png"
-hash = "d5c5f71fee6a06a72367c937d0c12f7de6139f06483dbee165ec56483ab634b5"
+file = "config/fancymenu/assets/j.png"
+hash = "ea2a421c9b08f90c917133b2ae17cba2a09ad4f59d2df93bf697a4aea120edde"
+
+[[files]]
+file = "config/fancymenu/assets/j2.png"
+hash = "36ff2dfd0148bf50ef22f38b238deab4f2f78727e6b78fed03b0c097b859c8ae"
+
+[[files]]
+file = "config/fancymenu/assets/m.png"
+hash = "4877c4e9f49acd5ab3c94a20cd46f09ef6aed99b7a22d2fe1ae0d1cf143e5cf0"
+
+[[files]]
+file = "config/fancymenu/assets/m2.png"
+hash = "018c36af2fe173ede473a257a3e387307be9c728792b560c61f1107f21e6866b"
 
 [[files]]
 file = "config/fancymenu/assets/minecraft_title.png"
-hash = "b1586fe9812cdc1bd3d9ac27cd2118eaec8176be145d924266bc5bb8d110c3ff"
+hash = "21b43d7ef1af42ab16a700deaae8341818cb44047013c709656707fa538de51b"
+
+[[files]]
+file = "config/fancymenu/assets/o.png"
+hash = "a556570f117063c7cdccb30add4016dfa1a93b4a4633b4e6f2417a46456e99cd"
+
+[[files]]
+file = "config/fancymenu/assets/o2.png"
+hash = "a0f824ce4fdbc72a77bafa5ba02d514e108177cbd1b8e9ada2b876e69857f317"
+
+[[files]]
+file = "config/fancymenu/assets/q.png"
+hash = "6a5236eb9e6bf224787a3bbb101731e0cb19a7424c1f1a3662e51b639c6b26b6"
+
+[[files]]
+file = "config/fancymenu/assets/q1.png"
+hash = "2b4a6ab6f1f756703ba7660f4ecb2762e83cb0bc3f55d5a70d891f272609edf9"
+
+[[files]]
+file = "config/fancymenu/assets/s.png"
+hash = "390cd33ddf9cbe1bcb7062a441fe75f10f07f56e873a0736df6484ff93414d5d"
+
+[[files]]
+file = "config/fancymenu/assets/s2.png"
+hash = "119a47413a2b3efeddee5fa28af3e68926f7daca33a9008fe478aaf5a3ef7ebf"
+
+[[files]]
+file = "config/fancymenu/assets/st.png"
+hash = "3c2e965fb23667d6437c339c5e54058eb454cc92b3d862700f882475436d9844"
+
+[[files]]
+file = "config/fancymenu/assets/st2.png"
+hash = "7b7ade3ee73f1bd732047554adbb573265c1c44740258731c9e465094782a6b2"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
 
 [[files]]
-file = "config/fancymenu/customization/level_loading_screen_layout.txt"
-hash = "88bdd358fc5fe4450fbdc13325e1c80d880dafae92e212d4642bc446d77e594f"
+file = "config/fancymenu/customization/TitleScreen.txt"
+hash = "8e526c9271fc14d7682a0e08359182fdcc38e6ba9986fc83503a97c71aa7fe82"
 
 [[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a885e107bdc37650da58a979f6406d4f8f3db3a100670ac9f4c9ca191e25e788"
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "88bdd358fc5fe4450fbdc13325e1c80d880dafae92e212d4642bc446d77e594f"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
