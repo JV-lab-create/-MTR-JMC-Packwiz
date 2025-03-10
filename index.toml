@@ -603,3 +603,43 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "d240d3fa6383e3ff875cbd30b403dfcfb58ee67603df55c384beb7bc43c576c8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/assets/mtr/custom_directory/bvg_class_h_pink.png"
+hash = "d8a1b3a7723466f111dbfbaa8cbdebc65778e788f6665c568f0cdbbc8ca5bb18"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/assets/mtr/custom_directory/s43tec_lrt1980_green.png"
+hash = "4fd672d77c103e446705a07b1c4109b39fe63e9e6711cc4a76475c729e90c787"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/assets/mtr/custom_directory/s43tec_lrt1980_orange.png"
+hash = "9689966c45a0de22f7ff9d4ad413c82ad8b54ecb4c23e23711a5cd2bef652a03"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/assets/mtr/custom_directory/s43tec_lrt2024_pink.png"
+hash = "a8ddb54870c0989b89c602d10fbb5c401ed35aee3006bd38cda84b0c7c25bb28"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/assets/mtr/mtr_custom_resources.json"
+hash = "7015476c143fc8ff1edc8f4344d9785b9b9113731977349b3b1820d0b08880b6"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/desktop.ini"
+hash = "63dc103e459baa1d007094627b438e1a4b95b87d3f36afbdd3cb16194a1cb599"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/pack.mcmeta"
+hash = "c3995bcf9f6b88892e8d82ab893c2d85e4eccd4c97c4e3f95943c5645c8d17b1"
+
+[[files]]
+file = "resourcepacks/MTR Custom Resources/pack.png"
+hash = "14d2ac3e8cd72fc5a2d31e714d4c12bf82913d50c5d59a6acf7d6a1a3dfdaf2b"
+
+[[files]]
+file = "resourcepacks/S43-Tec_LRT_Pack.zip"
+hash = "6b8c18e1d2fb791051f008bfd98dd33ae90c88b8f68d4b00b9f83dacbc4b7ac0"
+
+[[files]]
+file = "resourcepacks/bvg_class_h.zip"
+hash = "2a67891ebd2c78f45b361475e6f84829cbab06567fef5a869002074262ea0f75"
