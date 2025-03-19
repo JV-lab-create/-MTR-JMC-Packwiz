@@ -1,0 +1,13 @@
+name = "Prefab - Fabric"
+filename = "prefab-fabric-4.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "595711d1cf9dd91b43945b8ad5bdaa5f09af80ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4084439
+project-id = 438696

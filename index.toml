@@ -325,6 +325,10 @@ file = "config/fancymenu/slideshows/train_slideshow/properties.txt"
 hash = "f14a55052619019787a1ed3e81e4d5a015ad1a096e4e47dd0ebe577a61894dc5"
 
 [[files]]
+file = "desktop.ini"
+hash = "d1a4e0bce3a04ed4ab9ed6885a63ddab872de71c377c550868005b0617187d43"
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
 metafile = true
@@ -347,6 +351,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "c419054516c521d0942ad8bbc716c4b819022634eafc25c4c97857ea919944b1"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "802f47f9cdbadb2b7a7bcca278d0accce43c6549d09b61096bce89e501e8bcf1"
 metafile = true
 
 [[files]]
@@ -522,6 +531,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/paragraphs.pw.toml"
+hash = "90c9034a488eb1da753bc24f6b07ee181f7867c1e3624f14a25fae15e9bcebf6"
+metafile = true
+
+[[files]]
+file = "mods/prefab-fabric.pw.toml"
+hash = "dcc34f0e94aa2ebd0e4e5851f60f1734c1d5ffb0974a49e0b953a2da78020833"
 metafile = true
 
 [[files]]
