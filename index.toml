@@ -73,8 +73,8 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
 
 [[files]]
-file = "config/fancymenu/customization/TitleScreen.txt"
-hash = "8e526c9271fc14d7682a0e08359182fdcc38e6ba9986fc83503a97c71aa7fe82"
+file = "config/fancymenu/customization/TitleScreenFixed.txt"
+hash = "386437563c64e9c7ac1de82a4908aa03c21c135892a44a37e50e8fc75ab5b43b"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
@@ -329,6 +329,16 @@ file = "desktop.ini"
 hash = "d1a4e0bce3a04ed4ab9ed6885a63ddab872de71c377c550868005b0617187d43"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "76a7215e67b24c073f93e03d23a8f57d3481b7de7e1ce4dbeae33941146872b6"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "a7f42bbebf72de35b2842ec54a09d08ee7a5ec035266740c71d295e15b491ea6"
+metafile = true
+
+[[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
 metafile = true
@@ -366,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "eb18c443f3cef8674c7be580ad4f06ded023df3ef54297e1b1fbfaad4d32675c"
 metafile = true
 
 [[files]]
@@ -416,6 +431,16 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "254f19f55b690b9574aa03bca41bf785a21396feb6d2cb2ca472252f2482f3a2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "a6db88c5bf198ba2a73c418f9a9edfdef39203ee96806077f5fc9af876669b3e"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "cf2e6179b98fe603536d4f79dbe3195e64127ad2bd8589bfb9f072c653324b47"
 metafile = true
 
 [[files]]
@@ -511,6 +536,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "a8ac34d2baa426ea06ffbabb948bb418df71c8f97920e67f3438e2fed6075e34"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "6d4cefce5624614aceb5832d4c8e70c2d73bb0ec7cac58cfce42c9f27b2dcc82"
 metafile = true
 
 [[files]]
