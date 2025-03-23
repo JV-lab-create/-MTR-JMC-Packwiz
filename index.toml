@@ -73,8 +73,8 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
 
 [[files]]
-file = "config/fancymenu/customization/TitleScreenFixed.txt"
-hash = "386437563c64e9c7ac1de82a4908aa03c21c135892a44a37e50e8fc75ab5b43b"
+file = "config/fancymenu/customization/TitleScreenVersion3.txt"
+hash = "09c47986eafa939b6d13aef5555f01d02ec8d7c8883ff88d6cff3611e44c090e"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
@@ -657,3 +657,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "d240d3fa6383e3ff875cbd30b403dfcfb58ee67603df55c384beb7bc43c576c8"
 metafile = true
+
+[[files]]
+file = "resourcepacks/blank"
+hash = "bebb33642d7a1cb23406e4ef6b4c3ed9911594c474aed53bcaec65021f7324ad"
