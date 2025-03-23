@@ -12,11 +12,6 @@ layout-meta {
   [loading_requirement_container_meta:fdf32145-5b8d-42c4-bc71-889fd77d2f46-1741538855693] = [groups:][instances:]
 }
 
-menu_background {
-  slideshow_name = train_slideshow
-  background_type = slideshow
-}
-
 customization {
   action = backgroundoptions
   keepaspectratio = false
