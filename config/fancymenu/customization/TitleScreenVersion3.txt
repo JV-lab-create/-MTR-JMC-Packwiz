@@ -38,7 +38,7 @@ layout_action_executable_blocks {
 
 element {
   button_element_executable_block_identifier = 61c751d8-58f0-46ee-b7d9-8a5d6652bccb-1741537415754
-  [executable_action_instance:6ffd2354-d67c-42c5-a057-915c9e69115c-1741537415755][action_type:openlink] = https://github.com/JV-lab-create/Server-Resorucepack/archive/refs/heads/main.zip
+  [executable_action_instance:6ffd2354-d67c-42c5-a057-915c9e69115c-1741537415755][action_type:openlink] = https://drive.usercontent.google.com/download?id=1ng2swZN-tLxKXbTafpT3JmLpu1gxqJQs&export=download&authuser=0
   [executable_block:61c751d8-58f0-46ee-b7d9-8a5d6652bccb-1741537415754][type:generic] = [executables:6ffd2354-d67c-42c5-a057-915c9e69115c-1741537415755;]
   backgroundnormal = [source:local]/config/fancymenu/assets/b2.png
   backgroundhovered = [source:local]/config/fancymenu/assets/b.png
