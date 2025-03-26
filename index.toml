@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/alert-24.png"
+hash = "da271121766889648262550f17777b2ced8a4e67b54795c3c665a41e27f5739d"
+
+[[files]]
 file = "config/fancymenu/assets/b.png"
 hash = "662e8289ff060d76a1c7863d1f3282fc27526bf7f612811b2833ef8f054f6553"
 
@@ -15,6 +19,42 @@ hash = "ca65a52f173ee43e9d0ebc94009b0e333035681f7d5159aed3c4b9e862870b2e"
 [[files]]
 file = "config/fancymenu/assets/back2.png"
 hash = "a7dc72f84f70723a95866157c315bc1255f80801de53e4cb643d13f18ccc0a08"
+
+[[files]]
+file = "config/fancymenu/assets/blank.png"
+hash = "7a6e8f60299a2c08a9d3290518c2183ce820ca0e63aea8e25de725fd3d8fc276"
+
+[[files]]
+file = "config/fancymenu/assets/csb_faq_bee.png"
+hash = "d239a825f2e654150e499d8c9c751a738373d5272681bbe64b40d220496c5157"
+
+[[files]]
+file = "config/fancymenu/assets/csb_faq_fox.png"
+hash = "81afa917207433bbed766ae400101d053d7fb62c442d30f21ebdf9da9544e663"
+
+[[files]]
+file = "config/fancymenu/assets/csb_faq_horse.png"
+hash = "03bc5ecfbd7cbb2a55a44b31f6684c4591c929c2cd7282a2e133d67d82488ab2"
+
+[[files]]
+file = "config/fancymenu/assets/csb_faq_parrot.png"
+hash = "f95b8bb9aff930a810021202f2378f9b9b284b62ba102f3439c769354d431902"
+
+[[files]]
+file = "config/fancymenu/assets/csb_faq_pig.png"
+hash = "eed38c59f3e911857cc53722332e681d1cdf84d65f6e4dba025322af7156433e"
+
+[[files]]
+file = "config/fancymenu/assets/discord_selected.png"
+hash = "922ee0f11db72856f5d3ac306f6e791f812d7829e4f65a4b4e8c54f86e085b66"
+
+[[files]]
+file = "config/fancymenu/assets/discord_unselected.png"
+hash = "68aaef1c9854c346f1dfeb45b3ad70db623da6cae31024224dabc1925a3df7cf"
+
+[[files]]
+file = "config/fancymenu/assets/git-merge-24.png"
+hash = "eec5bdec8cfaefd875452bb7c756fac5aae378d5dc3f2baa528435d209f47303"
 
 [[files]]
 file = "config/fancymenu/assets/j.png"
@@ -45,6 +85,10 @@ file = "config/fancymenu/assets/o2.png"
 hash = "a0f824ce4fdbc72a77bafa5ba02d514e108177cbd1b8e9ada2b876e69857f317"
 
 [[files]]
+file = "config/fancymenu/assets/persona_key_comp.png"
+hash = "af4794793571cd6f70a035557cea222a67da909bbd085d1530577835d2e6def0"
+
+[[files]]
 file = "config/fancymenu/assets/q.png"
 hash = "6a5236eb9e6bf224787a3bbb101731e0cb19a7424c1f1a3662e51b639c6b26b6"
 
@@ -69,16 +113,72 @@ file = "config/fancymenu/assets/st2.png"
 hash = "7b7ade3ee73f1bd732047554adbb573265c1c44740258731c9e465094782a6b2"
 
 [[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
+file = "config/fancymenu/assets/system-map-selected.png"
+hash = "dba308fa5b7728d5d9a68f12b9284632600f786e49d807367a67d86e896f4cd1"
 
 [[files]]
-file = "config/fancymenu/customization/TitleScreenVersion3.txt"
-hash = "09c47986eafa939b6d13aef5555f01d02ec8d7c8883ff88d6cff3611e44c090e"
+file = "config/fancymenu/assets/system-map-unselected.png"
+hash = "44cef56cfb8a19831a99209d0b678de21f8e6a025d451e306641e66f38970ba5"
+
+[[files]]
+file = "config/fancymenu/assets/tips.txt"
+hash = "e221779022a6aebca756317010dc0f4859329155a1a522385859a63cb4f91615"
+
+[[files]]
+file = "config/fancymenu/assets/updatereosurcepackslelected.png"
+hash = "a1e43a6245d390d0da83102764c955374a8c021431511cf4817aeb0dafde5731"
+
+[[files]]
+file = "config/fancymenu/assets/updateresourcepackunselected.png"
+hash = "12ff43d69f620052ff25b7fa61b96bf5c1c2a6dad04cda521f6777e595bffa67"
+
+[[files]]
+file = "config/fancymenu/assets/warning_alex.png"
+hash = "b7280238b4ef7913a41f2cd83b29bba81c32f58ee9ee7cc87a3edef2956d7773"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "f4668e4349ff429f0ea9ec9ea046180ca1c898267b72376ecec486c3f26a4e50"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "d021fc31f91e51d41989ba4408d988afe3853186b58ff3205f4b6a0cfe553d95"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "bd95078f40ebe679ac451b32e5b1a47f88dad9044824dc8a2de64938df19ec43"
+
+[[files]]
+file = "config/fancymenu/customization/confirm_screen_layout.txt"
+hash = "ca78eb68d5d4109b95b00c1762e10917a3d40977e47534097f540ff8a34111e0"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "f5dd5458cac5bf2da793177e5b9b9bc0bc9508f30f6c5107cde4404cbdd3e2c9"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
 hash = "88bdd358fc5fe4450fbdc13325e1c80d880dafae92e212d4642bc446d77e594f"
+
+[[files]]
+file = "config/fancymenu/customization/resoucepackupdate_layout.txt"
+hash = "5dd5eaa66637fbf2c240333f35e6d51c74ab625b3fe9264675340684695f6d42"
+
+[[files]]
+file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
+hash = "53303cbcc9d000d5479b8f4fcfa0a6c3f226db4a412cf9e9e1bdb30e93b2a25b"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "bb6538fc61a3f5d75a3eb0d4361708cbe82490eac92dc8b8bace2d3b8abf93c0"
+
+[[files]]
+file = "config/fancymenu/customization/v5.txt"
+hash = "0b76545f699c39381808043095c7bcaa2c005b8ebde3b2513d30d17a86c2e98f"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
@@ -87,6 +187,146 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 [[files]]
 file = "config/fancymenu/options.txt"
 hash = "6a6df47f97ad03409301fc5ad9e0f3edeeb6e7588f7b464038e876b1e8db91cf"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/CreateNewProject.png"
+hash = "6d8e82b6a544b437d0658398f732ddfab4f991896d82db8ccd0de1a7178fe707"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/PlaceholderStore.png"
+hash = "6f268b8f9448f0ce4d653fddeba86ac3015aa12d6bb1f0b7fcc358ef05679482"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/RealmDemoScreen.png"
+hash = "345b98896a945b89456051e84a878764678b5690ee730d5cf4ef7cb74546412a"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/WorldDemoScreen_Big.png"
+hash = "6b92556c8f1d580f9150839787e6f38378f73d50e600b9beef1df35cdfc7a1ce"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/WorldDemoScreen_Big_Grayscale.png"
+hash = "00ce9ee1f5cd4ec321491bf48a3282cb7fe1ce1a1b2816ece8cae48b614f7a24"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/building_a_shelter.png"
+hash = "b57720e706b382491daa2136e1c1496dbeb61b92d17f025bde83fdd444f1f096"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/classic_skin_comp.png"
+hash = "a6661096e72b5d5faed8c9c26dce1b6a30a0bb135f3a8113f71d9668a1eba323"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/crafting_table.png"
+hash = "e748c07470a1f228b4a5cfd2ad1f1b065c1c7a6caefedaf3bd39ce1cd42f07bf"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/csb_welcome_3x5.png"
+hash = "a6ae40493e18131a1f9df77286aa24e7fd9f0f47f5f3ce0641e71e8660bff81c"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/default_world.png"
+hash = "d1ea2e0920619595a419a380cedaa23341123eed3a501da0e63eb22745b59ee8"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/inventory_desktop.png"
+hash = "8b6d7df91723982892d898bad1be79b23f26d9e9dcd4af44352438b5bcba6415"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/inventory_warning_xbox.png"
+hash = "00ffe332cf2b255a7030fc56393ae7253435853d7bc07252cf378ab2743b3cf8"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/persona_key_comp.png"
+hash = "af4794793571cd6f70a035557cea222a67da909bbd085d1530577835d2e6def0"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/rating_screen.png"
+hash = "3e0db82cd96ed72c62097dd8562a04affaa76b2268ef7ad86dd02cdfec90ffba"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/realms_header_art.png"
+hash = "e55cde2c5685d209d6b68b2b793daaaac6a30693c7b1cdee25a47108bba6cb9d"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/train.jpg"
+hash = "e989f3ec3ad63996612fb7267d68c38f474429e67268b7e71d6e57bf3f351d4c"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/update_world_chunks.png"
+hash = "70975dd014dcaa067f9522647ab3405746315f4ce470ab81980595f017520cef"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/welcome.png"
+hash = "fe5be3d8d1d67537e895c23090e0049a76493643b209ae7691d0e170745ad81e"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/images/world-preview-flat-fixed-pixels.png"
+hash = "0be8d1b51e4db1c28d6110e2ba3436bc9fa518cf35a301ec4b9455f9da94dab2"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/properties.txt"
+hash = "324cff7ad9828eca552891fe4b0a4124669ea016bebffc3f888e753124f30083"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/storexblsignin.png"
+hash = "1d314a3ed33ffa8f188860093db2d1e81d523bfa241ba1a04eb12e0c6cfa4565"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/sunset_keyart.png"
+hash = "7144752e723e89fb6563f09118c8707f2170ab938b9f7a98bd159314e531133f"
+
+[[files]]
+file = "config/fancymenu/slideshows/bedrock/sunset_pending_keyart.png"
+hash = "93e0d02efd84d5e496b01b64444d2d0bf3dd747cea4fa67d05730d3acab55b36"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/csb_faq_bee.png"
+hash = "d239a825f2e654150e499d8c9c751a738373d5272681bbe64b40d220496c5157"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/csb_faq_fox.png"
+hash = "81afa917207433bbed766ae400101d053d7fb62c442d30f21ebdf9da9544e663"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/csb_faq_horse.png"
+hash = "03bc5ecfbd7cbb2a55a44b31f6684c4591c929c2cd7282a2e133d67d82488ab2"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/csb_faq_parrot.png"
+hash = "f95b8bb9aff930a810021202f2378f9b9b284b62ba102f3439c769354d431902"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/csb_faq_pig.png"
+hash = "eed38c59f3e911857cc53722332e681d1cdf84d65f6e4dba025322af7156433e"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_bee.png"
+hash = "0c37d369d5b57bfcd77f3f2957e7c58263e1fd6933940f45c83b4d4a9160acc2"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_chicken.png"
+hash = "b8d3bf286cfb63de111007dde2db9be5f6a052b905d594a79f4292a7add8ba91"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_creeper.png"
+hash = "099eeb65b23e2c699a3d2b575392f138df4187a273523a121a3b29da8e02c671"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_pig_sheep.png"
+hash = "56afb5c5fafd3221ad0ed56c339bddc198fc780eedcd92dc795cad998ea5ae51"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_spider.png"
+hash = "b571be9e1f6282fe604b0c8bf5342da39637fa0299d284c459b659b4f6af29d7"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/images/promo_wolf.png"
+hash = "e11b721526802e6aaa83e1989a02c951a4896dd4415f92484e2c0317ce99b133"
+
+[[files]]
+file = "config/fancymenu/slideshows/promo/properties.txt"
+hash = "3abd2fbfa5a8a3b24c4c92d6c798c1573b0140af7671e4e2ff660cc0190c6391"
 
 [[files]]
 file = "config/fancymenu/slideshows/train_slideshow/images/0dd44bf2450ea578a2edcab7a10c9887e0b3808d.png"
@@ -323,6 +563,18 @@ hash = "eb938fe2c87eada3a50af2ad7f6f559b8e32e23ba71adab83dec06d4f008ccac"
 [[files]]
 file = "config/fancymenu/slideshows/train_slideshow/properties.txt"
 hash = "f14a55052619019787a1ed3e81e4d5a015ad1a096e4e47dd0ebe577a61894dc5"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "desktop.ini"
