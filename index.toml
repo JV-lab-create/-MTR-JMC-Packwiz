@@ -657,6 +657,11 @@ hash = "a92e8edd1d7d56cdc1e6fed9e45336e2cff5680d9c32886b91796454e40513ec"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "613baf87e2a5e82ff54ecdc47248b1b17cfaf3e2bfb9dfd758c50ce684d71728"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-sound-filters.pw.toml"
 hash = "ffde99bd776b13a7128932c5fbe5d25eabc9e610fb91fbb78d0475c4cd7e5fef"
 metafile = true
