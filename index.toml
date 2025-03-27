@@ -65,6 +65,14 @@ file = "config/fancymenu/assets/j2.png"
 hash = "36ff2dfd0148bf50ef22f38b238deab4f2f78727e6b78fed03b0c097b859c8ae"
 
 [[files]]
+file = "config/fancymenu/assets/loading_animation.fma"
+hash = "fa8e6b9597a6ff08bbe970e9f9b7915445204415c30fda3cbb95dec7f24484f4"
+
+[[files]]
+file = "config/fancymenu/assets/loading_bar.png"
+hash = "703e02f1e7013d642a81225b98bf08f1bdfc69e003b0b7d4a6132635da747aef"
+
+[[files]]
 file = "config/fancymenu/assets/m.png"
 hash = "4877c4e9f49acd5ab3c94a20cd46f09ef6aed99b7a22d2fe1ae0d1cf143e5cf0"
 
@@ -75,6 +83,10 @@ hash = "018c36af2fe173ede473a257a3e387307be9c728792b560c61f1107f21e6866b"
 [[files]]
 file = "config/fancymenu/assets/minecraft_title.png"
 hash = "21b43d7ef1af42ab16a700deaae8341818cb44047013c709656707fa538de51b"
+
+[[files]]
+file = "config/fancymenu/assets/modern-wizard.bmp"
+hash = "3e8be0e8f977b8f36113fd7e47983651f2e04457c18c90da2b3144b172f9b780"
 
 [[files]]
 file = "config/fancymenu/assets/o.png"
@@ -95,6 +107,10 @@ hash = "6a5236eb9e6bf224787a3bbb101731e0cb19a7424c1f1a3662e51b639c6b26b6"
 [[files]]
 file = "config/fancymenu/assets/q1.png"
 hash = "2b4a6ab6f1f756703ba7660f4ecb2762e83cb0bc3f55d5a70d891f272609edf9"
+
+[[files]]
+file = "config/fancymenu/assets/randomtexts.txt"
+hash = "e221779022a6aebca756317010dc0f4859329155a1a522385859a63cb4f91615"
 
 [[files]]
 file = "config/fancymenu/assets/s.png"
@@ -137,6 +153,10 @@ file = "config/fancymenu/assets/warning_alex.png"
 hash = "b7280238b4ef7913a41f2cd83b29bba81c32f58ee9ee7cc87a3edef2956d7773"
 
 [[files]]
+file = "config/fancymenu/assets/window.png"
+hash = "5192881df5603a39890f0f809c77b8c8f1145f7d56e78608180bcaebaeec19c5"
+
+[[files]]
 file = "config/fancymenu/audio_element_controller_metas.json"
 hash = "f4668e4349ff429f0ea9ec9ea046180ca1c898267b72376ecec486c3f26a4e50"
 
@@ -154,11 +174,11 @@ hash = "ca78eb68d5d4109b95b00c1762e10917a3d40977e47534097f540ff8a34111e0"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "f5dd5458cac5bf2da793177e5b9b9bc0bc9508f30f6c5107cde4404cbdd3e2c9"
+hash = "08846d63f6641e2483052f1d471ee17808723da142cbf7cef5020bc33d49a604"
 
 [[files]]
-file = "config/fancymenu/customization/level_loading_screen_layout.txt"
-hash = "88bdd358fc5fe4450fbdc13325e1c80d880dafae92e212d4642bc446d77e594f"
+file = "config/fancymenu/customization/level_loading_screen_layout_2.txt"
+hash = "caec0ab78e0ba14c8b95792b8e290b8776aa9fd1f7e71ba9139451aeb0874d90"
 
 [[files]]
 file = "config/fancymenu/customization/resoucepackupdate_layout.txt"
@@ -170,7 +190,7 @@ hash = "53303cbcc9d000d5479b8f4fcfa0a6c3f226db4a412cf9e9e1bdb30e93b2a25b"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "bb6538fc61a3f5d75a3eb0d4361708cbe82490eac92dc8b8bace2d3b8abf93c0"
+hash = "61aec266c4299fef2919b968ad7e10dd16fb679e5f6b69d989a5823e658a1dcb"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -571,6 +591,10 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/rphelper/config.json"
+hash = "e460f4ceb209fb4a253e59b62418dbb32de2a8b67a8d07c8012ba895b7914b7a"
 
 [[files]]
 file = "desktop.ini"
