@@ -577,6 +577,10 @@ file = "desktop.ini"
 hash = "d1a4e0bce3a04ed4ab9ed6885a63ddab872de71c377c550868005b0617187d43"
 
 [[files]]
+file = "mods/RPHelper-1.1.1.jar"
+hash = "e9ae81f3900e0da491cdabd4a290899ff87df414e985b442a05e71923c9cf1e9"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "76a7215e67b24c073f93e03d23a8f57d3481b7de7e1ce4dbeae33941146872b6"
 metafile = true
