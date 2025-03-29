@@ -449,6 +449,10 @@ file = "desktop.ini"
 hash = "d1a4e0bce3a04ed4ab9ed6885a63ddab872de71c377c550868005b0617187d43"
 
 [[files]]
+file = "mods/MTR-fabric-1.19.2-3.2.2-unoffical.jar"
+hash = "64aa2e3f01159b6afa325ea1d562144b6e14d426c280a8886ebf5c37320f7c0e"
+
+[[files]]
 file = "mods/RPHelper-1.1.1.jar"
 hash = "e9ae81f3900e0da491cdabd4a290899ff87df414e985b442a05e71923c9cf1e9"
 
@@ -670,11 +674,6 @@ metafile = true
 [[files]]
 file = "mods/minecraft-comes-alive-reborn.pw.toml"
 hash = "6d4cefce5624614aceb5832d4c8e70c2d73bb0ec7cac58cfce42c9f27b2dcc82"
-metafile = true
-
-[[files]]
-file = "mods/minecraft-transit-railway.pw.toml"
-hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
 
 [[files]]
