@@ -56,11 +56,6 @@ hash = "c419054516c521d0942ad8bbc716c4b819022634eafc25c4c97857ea919944b1"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca96211b25946beaf87eee3107365d83c588144cf3d96e1b1a97f16def464fb1"
 metafile = true
