@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "802f47f9cdbadb2b7a7bcca278d0accce43c6549d09b61096bce89e501e8bcf1"
+hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
 metafile = true
 
 [[files]]
@@ -273,6 +273,11 @@ metafile = true
 [[files]]
 file = "mods/replaymod.pw.toml"
 hash = "5f2f80b77088e152ddb1ef48b3b0cc805f3b8a7917f53f7fb86c38986bc2f11d"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "687e19dd35675a56d8d7bf1387e46789e3b5db0e5347f6cf7a1652c4c341e0fb"
 metafile = true
 
 [[files]]
