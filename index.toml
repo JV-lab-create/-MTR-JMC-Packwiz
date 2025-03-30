@@ -276,11 +276,6 @@ hash = "5f2f80b77088e152ddb1ef48b3b0cc805f3b8a7917f53f7fb86c38986bc2f11d"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "687e19dd35675a56d8d7bf1387e46789e3b5db0e5347f6cf7a1652c4c341e0fb"
-metafile = true
-
-[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "6eb04e29e0e7054979b9c48405bed438f953a5e17e64cfd0bf8753ef8c962f65"
 metafile = true
