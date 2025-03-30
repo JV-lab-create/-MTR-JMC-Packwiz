@@ -1,11 +1,10 @@
 {
   "packs": [
     {
-      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/raw/refs/heads/main/MTR%20Custiom%20Resources.zip",
+      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/v1.0.0/Server-Resorucepack.zip",
       "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/sha1.txt",
-      "fileName": "MTR Custiom Resources.zip",
-      "equivPacks": ["file/MTR Custiom Resources", "file/MTR_Custiom_Resources"],
-      "name": "MTR Custiom Resources"
+      "fileName": "JMC MTR Custiom Resources.zip",
+      "name": "JMC MTR Custiom Resources"
     }
   ],
   "requestTimeoutSec": 10,
