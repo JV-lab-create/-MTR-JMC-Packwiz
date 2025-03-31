@@ -4,7 +4,8 @@
       "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/v1.0.0/Server-Resorucepack.zip",
       "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/sha1.txt",
       "fileName": "JMC MTR Custiom Resources.zip",
-      "name": "JMC MTR Custiom Resources"
+      "name": "JMC MTR Custiom Resources",
+      "equivPacks": ["file/JMC MTR Custiom Resources", "file/MTR Custiom Resources", "file/assets"]
     }
   ],
   "requestTimeoutSec": 10,
