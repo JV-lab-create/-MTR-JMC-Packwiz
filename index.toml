@@ -6,7 +6,7 @@ hash = "6a6df47f97ad03409301fc5ad9e0f3edeeb6e7588f7b464038e876b1e8db91cf"
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "ea7e925ff461c7f9454eca76b125de4b05470cce98efc31f5fb2a5c76732a963"
+hash = "6228102abd4fe6a9b0f39ec4ff90978ae4e59e59004d428c2bf7ed9fee3cb72c"
 
 [[files]]
 file = "desktop.ini"
