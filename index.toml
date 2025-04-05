@@ -116,6 +116,11 @@ hash = "d252bd74a328b28a2eee5d9af1a56aa711fc5ee9f2c1d6bef431c961dfb548f2"
 metafile = true
 
 [[files]]
+file = "mods/eyemod-phone.pw.toml"
+hash = "910156f3a1b86a91ec3b74c916565dcb3d5d021c8f17e301d0f5033467eb2431"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "5c477b0cd218ed14c178205ad498aa7f3eb1ec56444c2e760e0413e8d520c064"
 metafile = true
