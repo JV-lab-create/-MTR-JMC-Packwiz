@@ -27,11 +27,6 @@ hash = "a7f42bbebf72de35b2842ec54a09d08ee7a5ec035266740c71d295e15b491ea6"
 metafile = true
 
 [[files]]
-file = "mods/biomesyougo.pw.toml"
-hash = "eb459ec69576a244cf672b593bb9a86dd7ff079e231ceefba766cfa19402295f"
-metafile = true
-
-[[files]]
 file = "mods/carpet.pw.toml"
 hash = "f6f6b88d5f64f594373744da15458ed4b38f0057394c89ef8061b4275ceacf6d"
 metafile = true
