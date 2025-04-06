@@ -311,6 +311,11 @@ hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "afd16568fa52efa7f143df655754611eeaae2dcb2ed47bae6d780bb691310232"
+metafile = true
+
+[[files]]
 file = "mods/the-tube.pw.toml"
 hash = "3dc94d1abb75c7f63b6858c0134e12434d86093c007c07d9b71387656deb1e9d"
 metafile = true
