@@ -242,6 +242,11 @@ hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "8d7f78282ee2f33c625f19cb110463b756b721aef04a7e4533952662ac04010e"
+metafile = true
+
+[[files]]
 file = "mods/mtr-nte.pw.toml"
 hash = "22e4bb0bde531b78f5ae642dd2b87c147ea116da03bf6a768b7ce724711cc0a2"
 metafile = true
@@ -303,6 +308,16 @@ metafile = true
 [[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "d54fc485490fee136d6b0cfd1acd2b8eb32bd3ef7ce0c55e28a0966c067b1522"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8f19305fef38e233c169881d70cbe853bfdbf9cc5a390ffc020a03ea6fbcb616"
 metafile = true
 
 [[files]]
