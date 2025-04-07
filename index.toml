@@ -27,6 +27,11 @@ hash = "a7f42bbebf72de35b2842ec54a09d08ee7a5ec035266740c71d295e15b491ea6"
 metafile = true
 
 [[files]]
+file = "mods/biome-makeover.pw.toml"
+hash = "e656548f22d3fb811cbf4c9e304541d69e6452ec2cef24c6a456bbb79a0777f5"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "f6f6b88d5f64f594373744da15458ed4b38f0057394c89ef8061b4275ceacf6d"
 metafile = true
