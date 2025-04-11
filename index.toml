@@ -13,6 +13,10 @@ file = "mods/1.0.0-alpha.jar"
 hash = "cf6604f0d7f2e08542f7426b1a5ce0a296e2f4090e4e1d6244fa3a642c7b5422"
 
 [[files]]
+file = "mods/1.0.0-alpha_.jar"
+hash = "cecc68f60337f1561f87705cabd7ed0399387154802197ca83ae4ea80e354c46"
+
+[[files]]
 file = "mods/MTR-fabric-1.19.2-3.2.2-unoffical.jar"
 hash = "64aa2e3f01159b6afa325ea1d562144b6e14d426c280a8886ebf5c37320f7c0e"
 
