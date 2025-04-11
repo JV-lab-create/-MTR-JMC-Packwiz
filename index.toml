@@ -9,6 +9,10 @@ file = "config/rphelper/config.json"
 hash = "6228102abd4fe6a9b0f39ec4ff90978ae4e59e59004d428c2bf7ed9fee3cb72c"
 
 [[files]]
+file = "mods/1.0.0-alpha.jar"
+hash = "cf6604f0d7f2e08542f7426b1a5ce0a296e2f4090e4e1d6244fa3a642c7b5422"
+
+[[files]]
 file = "mods/MTR-fabric-1.19.2-3.2.2-unoffical.jar"
 hash = "64aa2e3f01159b6afa325ea1d562144b6e14d426c280a8886ebf5c37320f7c0e"
 
