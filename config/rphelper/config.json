@@ -6,6 +6,13 @@
       "fileName": "JMC MTR Custiom Resources.zip",
       "name": "JMC MTR Custiom Resources",
       "equivPacks": ["file/JMC MTR Custiom Resources", "file/MTR Custiom Resources", "file/assets"]
+    },
+      {
+      "sourceUrl": "https://cdn.modrinth.com/data/qF7xcKGa/versions/UJfYqDud/smb112x%27s%20APM%20pack.zip",
+      "sha1": "d4196017ca272bcf14e3b57cfb07e4935a2c6995",
+      "fileName": "smb112x's APM Pack.zip",
+      "name": "smb112x's APM Pack",
+      "equivPacks": ["file/smb112x's APM Pack"]
     }
   ],
   "requestTimeoutSec": 10,
