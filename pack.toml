@@ -1,13 +1,13 @@
-name = "JMC MTR Lets Play Server"
-author = "Jake Vento (JMC Team)"
-version = "1.0.0"
+name = "JMC MTR"
+author = "JV-LAB-CREATE"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f0e867930721b17323089c1abd7196c93a739fdf6d085f8d90bc034f607fee81"
+hash = "c7e4d492efcc49487d127157e361de75fda21a122ec4b3d054bdf22080ba2a8a"
 
 [versions]
-fabric = "0.16.10"
-minecraft = "1.19.2"
+fabric = "0.17.0"
+minecraft = "1.20.4"

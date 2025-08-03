@@ -1,13 +1,13 @@
 name = "MTR London Underground Addon"
-filename = "MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
+filename = "MTR-London-Underground-Addon-fabric-2.2.4+1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jrAXj11W/versions/ER9g5iD3/MTR-LU-Addon-fabric-1.19.2-2.1.2-hotfix2.jar"
+url = "https://cdn.modrinth.com/data/jrAXj11W/versions/FvqDweiB/MTR-London-Underground-Addon-fabric-2.2.4%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "f7dfbf669a2b462ee1767351f3b386a352e7eef54b7aa87d2831a191434ce0e29a9af73058cfa00413ee663604dce4c7432d6613b1d5c16cb25b99aa75578335"
+hash = "ba9425189befafa7687be6f3c58be39f8106257b163a716c2b0f0b21e6e44c2342bbc283b25efff2d5ccec13fe0cd56a23dd1f9e4f1d2a8336783281b9152135"
 
 [update]
 [update.modrinth]
 mod-id = "jrAXj11W"
-version = "ER9g5iD3"
+version = "FvqDweiB"
