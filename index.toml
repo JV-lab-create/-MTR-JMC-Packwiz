@@ -84,3 +84,8 @@ metafile = true
 file = "mods/worldedit.pw.toml"
 hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
 metafile = true
+
+[[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "a5d1b5aa62dbe48d312ca79b2c306bb95209da66d95f395eaf13a11174e4425b"
+metafile = true

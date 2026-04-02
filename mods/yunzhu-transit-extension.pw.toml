@@ -1,0 +1,13 @@
+name = "Yunzhu Transit Extension"
+filename = "Yunzhu-Transit-Extension-fabric-1.0.2-beta.5+1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nqMdKn6A/versions/FSvnhY3n/Yunzhu-Transit-Extension-fabric-1.0.2-beta.5%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "cf04e78326a7e59f97b7212fd23485209ca03d609a84d0e6d33257a4bc9c1e7a4964155dd38c7620615d19305e357c0bbd8353d8639782c28b041ebf5f755685"
+
+[update]
+[update.modrinth]
+mod-id = "nqMdKn6A"
+version = "FSvnhY3n"
