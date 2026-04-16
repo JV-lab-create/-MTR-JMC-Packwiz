@@ -1,0 +1,13 @@
+name = "DynamicPack"
+filename = "DynamicPack-fabric-1.20.4-1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IT6fZgjc/versions/TdRqZznw/DynamicPack-fabric-1.20.4-1.1.jar"
+hash-format = "sha512"
+hash = "da61e5554f05d92dd05b8f5c51310a51b0b312d0c7808175479caec9d01d3465f17de59cbf662a72856de44032ae6244bbaa2a395d6687dc56eee4fd27539bd6"
+
+[update]
+[update.modrinth]
+mod-id = "IT6fZgjc"
+version = "TdRqZznw"

@@ -1,0 +1,12 @@
+name = "Centown"
+version = "3.1.0-unoffical-3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad2e7957a976886678b135f8131144acec71f9d5a80baa194b6c8378c167a56b"
+
+[versions]
+fabric = "0.19.1"
+minecraft = "1.16.5"

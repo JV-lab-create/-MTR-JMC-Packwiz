@@ -11,6 +11,21 @@ hash = "7c293b14a198d5fdbec6810a9e8e51124e98d584d32633d61596926d2be62f7c"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "9e508304ee3c4241a1b73dc0cd885c203f36f186b4cdaaf8491e82f35444672b"
+metafile = true
+
+[[files]]
+file = "mods/dynamicpack.pw.toml"
+hash = "2638cbb71436b35449869023394edc6f7baf281c4c3584785fe00813fea8b734"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "bc64312008b6f9a28b5719c8777abd934f23102990e9f8ed0c44289a63b9b977"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "dd3c6cd7dae33e032a128718ff9f56e6ab83eaae9746fdf598004ad1468579fb"
 metafile = true
@@ -18,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "2b338e9d3f0f2706e4989bb611e408d3b56438df16875358a3080dd26061d5ca"
 metafile = true
 
 [[files]]
@@ -51,6 +76,11 @@ hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c86ba4054f61758a37ddad42828236b79a6f409ec5cc49c1bfcd34aeea80ff6c"
+metafile = true
+
+[[files]]
 file = "mods/slideshow-fabric.pw.toml"
 hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
 metafile = true
@@ -81,11 +111,26 @@ hash = "f19c74217c28ee212cda6d03da1bd1fe1a500c088f68d268b44721b51aac2537"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "5e6628f91c3a9f900452157ee8570dc1a4d65916bfba9528b1df5cb8f7dabcf8"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
 file = "mods/yunzhu-transit-extension.pw.toml"
 hash = "a5d1b5aa62dbe48d312ca79b2c306bb95209da66d95f395eaf13a11174e4425b"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c2f95bd746d113cf29cac145738be1f462e7ead2d4404c4b74c252b414aa435e"
 metafile = true
