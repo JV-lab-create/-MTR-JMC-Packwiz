@@ -124,11 +124,6 @@ hash = "bc64312008b6f9a28b5719c8777abd934f23102990e9f8ed0c44289a63b9b977"
 metafile = true
 
 [[files]]
-file = "mods/essential.pw.toml"
-hash = "aa9e9f7563944e77a7efcaa57da106ea92130bff92df655f88a8aad8b6b180be"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6937c28eaee641ef81f819fae8958edf3a1345e21d017bf682f791687f88a35a"
 metafile = true
