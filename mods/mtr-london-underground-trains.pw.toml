@@ -1,13 +1,13 @@
 name = "MTR London Underground Trains"
-filename = "MTR-London-Underground-Trains-fabric-1.0.3+1.20.4.jar"
+filename = "MTR-London-Underground-Trains-fabric-1.0.4-hotfix+1.20.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W66PiEZF/versions/YDrJhcCF/MTR-London-Underground-Trains-fabric-1.0.3%2B1.20.4.jar"
+url = "https://cdn.modrinth.com/data/W66PiEZF/versions/KRW9DdL1/MTR-London-Underground-Trains-fabric-1.0.4-hotfix%2B1.20.4.jar"
 hash-format = "sha512"
-hash = "dad679de2347a5a3a692c948ca980f98e616713fd0b1ed45cffa8c8e03cecc00b68a77350c8624293bda4db3160d86f5f883fe17727171631a87c224c305f367"
+hash = "379d6f7f4c52c59ab31ed93b646771a6f3053198037e4ae858117c0ea4262ce7734cf24314e66d9eb61fa3bec289ebf6b0c0f0d1fc3119bad50576020d2325b4"
 
 [update]
 [update.modrinth]
 mod-id = "W66PiEZF"
-version = "YDrJhcCF"
+version = "KRW9DdL1"

@@ -1,13 +1,18 @@
 name = "Essential Mod"
-filename = "Essential_1-3-9_fabric_1-20-4.jar"
+filename = "Essential_1-3-10-8_fabric_1-20-4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ilxAGR3W/Essential_1-3-9_fabric_1-20-4.jar"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/jxtRsNEc/Essential_1-3-10-8_fabric_1-20-4.jar"
 hash-format = "sha512"
-hash = "2b51a9b0c48365238392089d1dd3a6288bb13c63676a4978995d2d6013e5cd6b35a50f6f065f93ced0df809b33ba940e66f26f154af923cc7e6dbc1e3c61700a"
+hash = "1e6d89142ea9b0fd9075db6f8c34ed61e2ac5243fab38ff6ce730b0779f6ab5352c1e070dd5a37c378f532f854a4006ac1a03a795b17d3b15858e96754cb2ce9"
 
 [update]
 [update.modrinth]
 mod-id = "k2ZPuTBm"
-version = "ilxAGR3W"
+version = "jxtRsNEc"
+
+[options]
+optional = true
+default = false
+description = "A mod that adds worldhosting and more, being replaced by World Host Mod"
