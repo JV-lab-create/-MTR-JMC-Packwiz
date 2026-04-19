@@ -106,7 +106,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
+hash = "58485580788f595911cccacfd69d0715abf7cf4393c637614d97bd1850976414"
 metafile = true
 
 [[files]]
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "ebf10ffd13fde98763a8791568dfe28cfbcb66ff7d9937f5b3d6ee427635cd71"
 metafile = true
 
 [[files]]
@@ -142,6 +147,16 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bc64312008b6f9a28b5719c8777abd934f23102990e9f8ed0c44289a63b9b977"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "31a4b91eb2ebc3ea057759b91bf151b0e264be09d60d14541dce407a63a6ef3e"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "5f7cf7a2d4110b4624ae20410c692985d9647274890982d7ee6d89b5e60f66af"
 metafile = true
 
 [[files]]
@@ -185,6 +200,11 @@ hash = "2506ef147d11944b8f5bb748f65afb28a853a3081b05f835c910fa17d8c3278a"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "e2fbfd4cfd2eae73e54fb25485abb2a4c364cd896e01d1bc5f8dd01c09bb4210"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "92ddcddc9a81a371e005a7b90617d93493ba4549d02ff9f5c98bc5979a6b3ff6"
 metafile = true
@@ -197,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
@@ -220,6 +245,26 @@ hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "c6a5c6afaf276bde5c35adb34e21155112b7defd08b83d95a81e435bc6530c42"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "b8f43a50939082d1d771497405b8c69a9a4a7fd8b32fa8828bafb723e4eb5e21"
+metafile = true
+
+[[files]]
+file = "mods/takeaseat.pw.toml"
+hash = "82e0ea125db1f63edea6ef75bff309cb9daeea0329070e5b9d1a7c43656d6953"
+metafile = true
+
+[[files]]
 file = "mods/the-tube.pw.toml"
 hash = "370562c6b363aeb7b7b35bd44b5ff7ad49560e75cb66d38c8889c84274471b95"
 metafile = true
@@ -235,13 +280,33 @@ hash = "f19c74217c28ee212cda6d03da1bd1fe1a500c088f68d268b44721b51aac2537"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "4427adf110cf4b328290bd6e7cad7b45fe6bf742e3efd32c13dee5a9e450d5e0"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
-hash = "5e6628f91c3a9f900452157ee8570dc1a4d65916bfba9528b1df5cb8f7dabcf8"
+hash = "3949afea40626d3191f6410ef7293a962960bfc7ed647b53c9429f8012eb145b"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "1ba66daecd4b33b1728b12acd2d9729bc07ccfdfe9bc41ffc9f09adfe9568577"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "df23d29fad11425718ff74ca4dd4d86a161b456b665c867b7442c6534bd35a8b"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "62f5e5c30b58c0cca80074cfc658237a31413d495cba9aa958ae3f85cd335f87"
 metafile = true
 
 [[files]]

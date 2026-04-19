@@ -11,3 +11,8 @@ hash = "e0060fdcd578bd2a0e2e576586ac72a7b000a51d312ebf854312a60d7f1aae54acb8b869
 [update.modrinth]
 mod-id = "2AIZDfYo"
 version = "Nm70PqEv"
+
+
+[option]
+optional = true
+description = "Allows you to host worlds in Minecraft."

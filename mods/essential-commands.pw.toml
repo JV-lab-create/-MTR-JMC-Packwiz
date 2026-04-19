@@ -1,0 +1,17 @@
+name = "Essential Commands"
+filename = "essential_commands-0.35.0-mc1.20.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/GYFhjn7a/essential_commands-0.35.0-mc1.20.4.jar"
+hash-format = "sha512"
+hash = "69c05f31de1af946f8529a918ec11bb54ffd16bab76a0f1f61245e87fbaf1ea4252142fbf5d78f93f95d28fb274d0284b237855cf5cd0529279d44e812af9564"
+
+[update]
+[update.modrinth]
+mod-id = "6VdDUivB"
+version = "GYFhjn7a"
+
+[option]
+optional = true
+description = "Adds usefull commands to Minecraft."

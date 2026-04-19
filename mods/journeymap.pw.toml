@@ -1,0 +1,17 @@
+name = "JourneyMap"
+filename = "journeymap-1.20.4-5.10.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/bV9yidYJ/journeymap-1.20.4-5.10.0-fabric.jar"
+hash-format = "sha512"
+hash = "b505b6d44ff9bf71521c1287818549540b464f712006e724be51c6186912b64ed9bc8f18b9891ff4f1665eac0db64170a3e33b8cbb4877f4c2c9ecf1ebf1a750"
+
+[update]
+[update.modrinth]
+mod-id = "lfHFW1mp"
+version = "bV9yidYJ"
+
+[option]
+optional = true
+description = "Allows you to view Minimap and Map of entire world"
