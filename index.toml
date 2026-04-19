@@ -22,19 +22,27 @@ hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "af8e31842b7b88bf772967ec0460d2a60f1f9dd25e663bc2464887a1bcc3883e"
+hash = "85b5557c31fc4ef4cf993bd6442234ed0ca3935a357ff105e490815d5de5cfd1"
+
+[[files]]
+file = "config/fancymenu/customization/death_screen_layout.txt"
+hash = "09e1850fa0886f02b9e4c7e3822ed4d56a0ca85396ea38eb5ce059ea14814453"
 
 [[files]]
 file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
-hash = "cafce75470bd7957f34eb96fe96efe2fd5cca4964378054b5757fdb82ddc5309"
+hash = "403735e20e5055470b9576b150cd1cb66758dce4d1f9ffac5024bed2d3bf317c"
 
 [[files]]
 file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
 hash = "bb5c6ce7397504296c26e12c928e3474616b0bfcc020c1029907534e0d102ef9"
 
 [[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "720190119462d0879e6d1bf0410583fab5f4fab60cfeb6572d0506ca9bedc7e8"
+
+[[files]]
 file = "config/fancymenu/customization/options_screen_layout.txt"
-hash = "b45341478cf67bab13a4621897a53d37a7753b2b1ab50db27404ba206c2fb3cc"
+hash = "93a818b4f7211d459461cef4b2825d163f7fc6c59c50f589a85557db52b70886"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
@@ -42,11 +50,11 @@ hash = "8b824a2df8407dfffc882dcfa7bf30b37b1593fb9d5bff9b64fd6480acb6ac64"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "74fc6552ad78c736664c0bf3c43ff19a521a433a489731d1149231eb691eac8b"
+hash = "c6b43914cbd5c1a87e4b5aac3f2f1d21ef7544c78627dd9fba7b2242214cd337"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "32b74f7e9ef5714f3e3ef16b7af29bb4756f76b3e092042dc2aeb11a7b07e391"
+hash = "a72d068e2fc61b94cacfb2ae026372fe8481b0bdd460bd455739833d6c00a5bc"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"

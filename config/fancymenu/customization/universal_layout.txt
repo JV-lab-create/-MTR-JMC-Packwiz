@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1776142973754
+  last_edited_time = 1776623113975
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:9d419bed-0586-403b-bf2b-5f9e90c79729-1776142966871] = [groups:][instances:]
+  [loading_requirement_container_meta:1ad6a0fc-9709-4bbf-b742-0fc344977020-1776622745082] = [groups:][instances:]
 }
 
 customization {
@@ -28,7 +28,7 @@ scroll_list_customization {
 
 element {
   interactable = false
-  source = Minecraft 24.4 ({"placeholder":"mcversion"}) Mods: {"placeholder":"totalmods"} {"placeholder":"loadername"} Loader
+  source = Minecraft {"placeholder":"mcversion"}, {"placeholder":"loadername"} Loader ({"placeholder":"totalmods"} Mods)
   source_mode = direct
   shadow = true
   scale = 1.0
@@ -61,12 +61,12 @@ element {
   base_opacity = 1.0
   auto_sizing = false
   auto_sizing_base_screen_width = 1920
-  auto_sizing_base_screen_height = 1018
+  auto_sizing_base_screen_height = 1124
   sticky_anchor = false
   anchor_point = bottom-left
-  x = -36
-  y = 11
-  width = 248
+  x = -24
+  y = 1
+  width = 242
   height = 14
   stretch_x = false
   stretch_y = false
