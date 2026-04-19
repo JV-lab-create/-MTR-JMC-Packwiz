@@ -220,6 +220,11 @@ hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
@@ -282,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "4427adf110cf4b328290bd6e7cad7b45fe6bf742e3efd32c13dee5a9e450d5e0"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "3949afea40626d3191f6410ef7293a962960bfc7ed647b53c9429f8012eb145b"
 metafile = true
 
 [[files]]
