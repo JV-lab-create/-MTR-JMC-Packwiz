@@ -14,5 +14,4 @@ version = "jxtRsNEc"
 
 [option]
 optional = true
-default = false
 description = "A mod that adds worldhosting and more, being replaced by World Host Mod"
