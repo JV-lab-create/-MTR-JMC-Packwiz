@@ -238,6 +238,11 @@ hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "181bfe0cfc3bd30e07dc328dac9fed42705ef5cd1977ee86e48942e8d0e47ee1"
+metafile = true
+
+[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
@@ -253,6 +258,11 @@ hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "cab2936a9939350acb6733ebe405e110743f5dfef4afec31ba0d34d759819ced"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
 metafile = true
@@ -265,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "2bc809fd42018142f09852bc91f30d65f1f6724cb972f8269c0aba386adb8ce9"
 metafile = true
 
 [[files]]
