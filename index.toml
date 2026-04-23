@@ -210,11 +210,6 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "333dfa2b93c688ce5f9f685f77cb62e5df8b9c8d21a2c4dd4eb9232aa85dccff"
 metafile = true
@@ -372,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
 metafile = true
 
 [[files]]
