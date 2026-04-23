@@ -194,10 +194,6 @@ file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_5.png"
 hash = "4623e111bfb73d67e94c7d5e871de4f34fa9d2ccb43eb05fe6f9d2c3e38c4d35"
 
 [[files]]
-file = "config/fancymenu/panoramas/JMCMTR/properties.txt"
-hash = "7a6e62414e18e64e5b1bc37ab8effdb075d4ce655d782cf287ef9d18f969e678"
-
-[[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
 
@@ -487,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "63b8e38fc76e93fbbb9465e6c20b7a37c0830868aa65ed9855f690b27ed10d87"
-metafile = true
-
-[[files]]
-file = "mods/puzzle.pw.toml"
-hash = "024a22c0ca648c36e40c285bb556e19404ea8272b468cd14692ef3845ed184be"
 metafile = true
 
 [[files]]
