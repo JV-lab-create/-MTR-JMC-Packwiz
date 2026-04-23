@@ -166,38 +166,6 @@ file = "config/fancymenu/options.txt"
 hash = "c130ac7e4c8a7316652022b53fff0c2774d78296e93b8f797d2542274c1b5d78"
 
 [[files]]
-file = "config/fancymenu/panoramas/JMCMTR/overlay.png"
-hash = "4cabea349b45c137de6ab4472303fb20fb94b07a119c8926aa54575ffbab91e6"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_0.png"
-hash = "3145bef5bd9623a3ae64232ecc386298e462cd5aeb13f2a5c1410b3b10517737"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_1.png"
-hash = "766ea94837870c909c9e49c088124ca0b07a158bf3d61445cc0bfdbf729b4625"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_2.png"
-hash = "a1a830e05ea6fdd8b898e1346f6ed0a0d31a810078378b01846ebb17c7599142"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_3.png"
-hash = "b5a9d89dba7f2d0edcc1c05529bf5b4d1ca58d3049ec144a10cba9b56df72da3"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_4.png"
-hash = "232dbb72b4b8aaebd945ad6966796a8aeaba86b57f08628575b3819519e0127e"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/panorama/panorama_5.png"
-hash = "4623e111bfb73d67e94c7d5e871de4f34fa9d2ccb43eb05fe6f9d2c3e38c4d35"
-
-[[files]]
-file = "config/fancymenu/panoramas/JMCMTR/properties.txt"
-hash = "7a6e62414e18e64e5b1bc37ab8effdb075d4ce655d782cf287ef9d18f969e678"
-
-[[files]]
 file = "config/fancymenu/ui_themes/dark.json"
 hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
 
