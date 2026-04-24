@@ -210,6 +210,11 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "157b2335b6bd4af70e30c2808bd2e9b3332f8d2c40528aefe7320ebfbba983f8"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "58485580788f595911cccacfd69d0715abf7cf4393c637614d97bd1850976414"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/customhud.pw.toml"
 hash = "f21db8cc5a07dff5a56c79d939d4c8ba250c983979f63fe630c2abf3854a6cdc"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "ae10c25b006a7cf0fea838dd58ad89ad4e5deb4d86e3219d32ffcd0ef2c868b6"
 metafile = true
 
 [[files]]
@@ -295,6 +305,11 @@ hash = "0deda12c43b8d75a1afb57fd8031edda01e81007dd64d6a297fd883ecf349a3e"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
@@ -315,6 +330,16 @@ hash = "92ddcddc9a81a371e005a7b90617d93493ba4549d02ff9f5c98bc5979a6b3ff6"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
@@ -325,6 +350,11 @@ hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
@@ -332,6 +362,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "63b8e38fc76e93fbbb9465e6c20b7a37c0830868aa65ed9855f690b27ed10d87"
 metafile = true
 
 [[files]]
@@ -411,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
+hash = "02fbb3c0145651abe117d6e2ceae75e84021bb07f65f2d67bdd426e3300be17f"
 metafile = true
 
 [[files]]
@@ -432,6 +472,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b424b2e66611b4eca4a79f4d09318ee68fcbdb7b70b077a91e0e5682accec905"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
