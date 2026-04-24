@@ -225,11 +225,6 @@ hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ebf10ffd13fde98763a8791568dfe28cfbcb66ff7d9937f5b3d6ee427635cd71"
 metafile = true
@@ -250,33 +245,13 @@ hash = "0062b8ca916ca8d42f2fe57613feac98d9e1ffad646021eb939fdaf3a335818b"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-fps.pw.toml"
-hash = "44f6c91da53211c0c0272b77f9ecfaf3f04ca491eecc9c3354dc96928c4f7dc2"
-metafile = true
-
-[[files]]
 file = "mods/dynamicpack.pw.toml"
 hash = "2638cbb71436b35449869023394edc6f7baf281c4c3584785fe00813fea8b734"
 metafile = true
 
 [[files]]
-file = "mods/emotecraft.pw.toml"
-hash = "5bae543da587a8fc28064e77b1307cc30c85bcf18c2deb22a181f84591a55ae1"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "5e68527364d68f986cad741ea3ff971d37760cdf9356ee1dd178a04d0fdbf1c9"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "bc64312008b6f9a28b5719c8777abd934f23102990e9f8ed0c44289a63b9b977"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "25b44d30a0f51540472f1dcb9e9627445ebd05a9c6266bd3b21700ec90de2f04"
 metafile = true
 
 [[files]]
@@ -320,11 +295,6 @@ hash = "0deda12c43b8d75a1afb57fd8031edda01e81007dd64d6a297fd883ecf349a3e"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "d00804e18277945dda73f59796c1932862ceb96aac073a92b7a66ef92b4cf3bd"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
@@ -345,11 +315,6 @@ hash = "92ddcddc9a81a371e005a7b90617d93493ba4549d02ff9f5c98bc5979a6b3ff6"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
-metafile = true
-
-[[files]]
 file = "mods/melody.pw.toml"
 hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
@@ -360,16 +325,6 @@ hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
-file = "mods/modmenu.pw.toml"
-hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
-metafile = true
-
-[[files]]
-file = "mods/moreculling.pw.toml"
-hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
-metafile = true
-
-[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
@@ -377,21 +332,6 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "41f0f67ed299e21b9a5a2c42d7e9a66c1a23cf58a8d8ead38f92fe96f1efcae3"
-metafile = true
-
-[[files]]
-file = "mods/placeholder-api.pw.toml"
-hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "63b8e38fc76e93fbbb9465e6c20b7a37c0830868aa65ed9855f690b27ed10d87"
 metafile = true
 
 [[files]]
@@ -471,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "02fbb3c0145651abe117d6e2ceae75e84021bb07f65f2d67bdd426e3300be17f"
+hash = "8a7bab663c386b0e31a5730d4c585baae859ea47ff716fa30fd8d0103ccba1a4"
 metafile = true
 
 [[files]]
