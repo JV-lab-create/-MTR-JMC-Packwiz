@@ -260,6 +260,11 @@ hash = "2638cbb71436b35449869023394edc6f7baf281c4c3584785fe00813fea8b734"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "5bae543da587a8fc28064e77b1307cc30c85bcf18c2deb22a181f84591a55ae1"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "5e68527364d68f986cad741ea3ff971d37760cdf9356ee1dd178a04d0fdbf1c9"
 metafile = true
@@ -377,6 +382,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "63b8e38fc76e93fbbb9465e6c20b7a37c0830868aa65ed9855f690b27ed10d87"
 metafile = true
 
 [[files]]
