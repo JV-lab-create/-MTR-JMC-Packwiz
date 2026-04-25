@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+hash = "a80bc90a2f161731b65860fb387c703bbe57188007643e2f8af7939b57b05594"
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "157b2335b6bd4af70e30c2808bd2e9b3332f8d2c40528aefe7320ebfbba983f8"
 metafile = true
