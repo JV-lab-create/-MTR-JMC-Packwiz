@@ -11,7 +11,3 @@ hash = "a5f5d57640cd3a31a53803f8b9ea289606f8ffd242d6e7ba9e07d146a61dfcefa13e4bd3
 [update.modrinth]
 mod-id = "6jis0UTI"
 version = "7dkB1mZ5"
-
-[option]
-optional = true
-description = "Shows some info such as coordinates, facing (axis +/-) etc. Fully customizable. Can be useful when using WorldEdit."

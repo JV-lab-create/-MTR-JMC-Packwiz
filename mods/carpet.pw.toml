@@ -11,8 +11,3 @@ hash = "6ca0bd328a76b7c3c10eb0253cb57eba8791087775467fbe2217c7f938c0064700bdca4c
 [update.modrinth]
 mod-id = "TQTTVgYE"
 version = "yYzR60Xd"
-
-
-[option]
-optional = true
-description = "nAllows you to no-clip when flying in creative mode."

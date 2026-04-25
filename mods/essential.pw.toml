@@ -11,7 +11,9 @@ hash = "1e6d89142ea9b0fd9075db6f8c34ed61e2ac5243fab38ff6ce730b0779f6ab5352c1e070
 [update.modrinth]
 mod-id = "k2ZPuTBm"
 version = "jxtRsNEc"
-
+name = "Essential Mod"
+filename = "Essential_1-3-10-8_fabric_1-20-4.jar"
+side = "client"
 
 [option]
 optional = true
