@@ -152,12 +152,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "3c2ed767202297ce68c7fc83fa24bb51ae2c52d3058288a42bae4abd2fef0ca8"
+hash = "31a4b91eb2ebc3ea057759b91bf151b0e264be09d60d14541dce407a63a6ef3e"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "bd0ac25d44d13d1cc56a52f3759efc13c9969f919fc269a8625cb817e9ef1883"
+hash = "26eab8c478e591faf2830cb73a5bf5b78b559f75b813f154367bdb41847a2f86"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "8fd6e717439025e86efb2bad83cc6a4ae09c3a1062254c91fb7a8c158ad1ac76"
+hash = "0deda12c43b8d75a1afb57fd8031edda01e81007dd64d6a297fd883ecf349a3e"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "8fa36301e08b623081ef46a2531f3e3e7849bd8445c70743ecbfa583cd6ffc21"
+hash = "e2fbfd4cfd2eae73e54fb25485abb2a4c364cd896e01d1bc5f8dd01c09bb4210"
 metafile = true
 
 [[files]]
