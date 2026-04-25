@@ -232,12 +232,12 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "29153b31304b760b9d9416c62590d6ba28ff38b7035d0b30046032a652435dc3"
+hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "fd8239ccca556202ff1654b3628752f517ec2b66214ef3a6611fb707e7cf98de"
+hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6afdc3e1be8f7bceb714c79fc94b11cedab323b20aeb0a4683998f4e9d9b3e54"
+hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
 metafile = true
 
 [[files]]
@@ -282,12 +282,12 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "0bd390826c0d189ad594a2fdc2562bdf957e6f38ea4e8cfd4c88a63e597d85c7"
+hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "b262b527d0830ce8aeb9a8f35396872200f7688f8a7e1d2e3f831ca24499882d"
+hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "442b73ee7d1626adfc19375139749d75474eb90c2adbb3e9fdf15c441d92d180"
+hash = "de46918876de129bf08aa27420ec9b99b373dbccac7acaebd82e46b4c28836b5"
 metafile = true
 
 [[files]]
