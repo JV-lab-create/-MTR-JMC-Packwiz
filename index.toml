@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/drippyloadingscreen/options.txt"
-hash = "06c6936f2b6a053261746ea5febde7481163073286446015d71ff91a43595099"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "2f51ba15acb425f8ec38bcb7daae3a1ad2d13f46c02b09ed1e50a515c3eacaa7"
-
-[[files]]
-file = "config/puzzle.json"
-hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "157b2335b6bd4af70e30c2808bd2e9b3332f8d2c40528aefe7320ebfbba983f8"
 metafile = true
