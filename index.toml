@@ -295,6 +295,11 @@ hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "e41e9711b1cb8f81b3aeca084079a35d1f95350ea8d101a64d87bfa2371aa954"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "4e966e2901534b9b29d9e6f246143763ede82ddee8ddfdda53394c37a9cfd973"
 metafile = true
@@ -345,6 +350,11 @@ hash = "92ddcddc9a81a371e005a7b90617d93493ba4549d02ff9f5c98bc5979a6b3ff6"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "74843219d7c6f3fd110e5c3e0e858b945851682c874f2838535fc926d33a431e"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
 metafile = true
@@ -370,6 +380,11 @@ hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
 
 [[files]]
+file = "mods/moddetectionpreventer.pw.toml"
+hash = "386dfa179addd182da23bb7ba83f597b9a5c27db4ba0470c5acbf74ce4367e13"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
 metafile = true
@@ -392,6 +407,16 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "41f0f67ed299e21b9a5a2c42d7e9a66c1a23cf58a8d8ead38f92fe96f1efcae3"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "47d13f088de4b921e1145b9bfd3a12a67336dbb902de017921d55547caa3521f"
 metafile = true
 
 [[files]]
