@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-tube.pw.toml"
-hash = "7ff8bec01779b08314a01df2e1542062f33de72c5800dd9f545e5671e108e9fe"
+hash = "370562c6b363aeb7b7b35bd44b5ff7ad49560e75cb66d38c8889c84274471b95"
 metafile = true
 
 [[files]]
