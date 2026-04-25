@@ -265,8 +265,18 @@ hash = "dd1730cb2f513ea954eee3dde8c79a014737e8442e0dca9f6c5897b5b487be24"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "5e68527364d68f986cad741ea3ff971d37760cdf9356ee1dd178a04d0fdbf1c9"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "db8698891a3eb75d444f3bcf989c2ac74b693ccc88670029363d98b60331d255"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "25b44d30a0f51540472f1dcb9e9627445ebd05a9c6266bd3b21700ec90de2f04"
 metafile = true
 
 [[files]]
@@ -392,6 +402,11 @@ metafile = true
 [[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
 metafile = true
 
 [[files]]
