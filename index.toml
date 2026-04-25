@@ -230,6 +230,11 @@ hash = "3fdfce41e8aee0ed7ea0b9f12763a6f1d1a0f888fcbcd749b3c78baf9b63e1d8"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "931fa7587facbc9b334c7539722b2dacaac520f253ebfbc5b87665d5abbcea77"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ebf10ffd13fde98763a8791568dfe28cfbcb66ff7d9937f5b3d6ee427635cd71"
 metafile = true
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "0062b8ca916ca8d42f2fe57613feac98d9e1ffad646021eb939fdaf3a335818b"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "44f6c91da53211c0c0272b77f9ecfaf3f04ca491eecc9c3354dc96928c4f7dc2"
 metafile = true
 
 [[files]]
@@ -287,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "4e966e2901534b9b29d9e6f246143763ede82ddee8ddfdda53394c37a9cfd973"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "e11805b0466105e48d2888e12bcd89a620880a9181018f7b080983ee58875ae5"
 metafile = true
 
 [[files]]
@@ -350,8 +365,23 @@ hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "af6cdd0fcc0d327c5d26c3c0fb49cf238d572be9985420aba71a4f2bddc01583"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "07114208e332aa5fbc3e7144c2bac58ea74e50d4eaeac2b6c6cc5c41286bb335"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "3dc86c0b4d31199f6f8579b8460686201ce8b9c87e1be5afaf50be9995add1e0"
 metafile = true
 
 [[files]]
