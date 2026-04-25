@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/yunzhu-transit-extension.pw.toml"
-hash = "5875447335f8e25bd9d33fdae248dceed40fb250c8b9aa336d294d30940def0b"
+hash = "a5d1b5aa62dbe48d312ca79b2c306bb95209da66d95f395eaf13a11174e4425b"
 metafile = true
 
 [[files]]
