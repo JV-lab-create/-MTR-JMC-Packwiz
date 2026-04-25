@@ -197,27 +197,27 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "8131a0e26ffbc57c8dfe603c100218373fc0746edcf01891462732998b69d23c"
+hash = "8fd6e717439025e86efb2bad83cc6a4ae09c3a1062254c91fb7a8c158ad1ac76"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "015b631d82c8d684d415c997b85b88205ce6b58a5a13a645e47e4174b04339e4"
+hash = "db812a9b3a4a8ea011eedc44bdc4df13a1f3cfb67130fe57d3990342566d03a8"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9b4ac664868a5f489de9e945e5a0a5aba62f8589fb1d158a9e74efc720f38d52"
+hash = "96cafb1b451ce577f0a74045704c2f51c3ab34d63fbba81df669c21646d33bff"
 metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "cb785015c779618d75a37b72a053fc64e95c988667acaf924fbb8e609ed4add9"
+hash = "92a5f843c1680a17261a7fcf1b0ae09238e4c7688162ae98c3acc3da7cd5ac82"
 metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "f1e183be5842f2db43011b4751b3ffbbb4144725a04972bb5956086eda299dbd"
+hash = "8fa36301e08b623081ef46a2531f3e3e7849bd8445c70743ecbfa583cd6ffc21"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "8e8db054d91b26b83be3d80b370a85e6da502063bdb42cc3c6c8e5cf68b6ae8a"
+hash = "99d5d752bc5cbb1d1458bb824e7dce2151607696641f92011b0b6d6c82ece8b0"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f55e4affb661c2de08d86e323a08273a1270a91f0f1200f415c31b28d043f323"
+hash = "521c8241593053f877a89ce447c64392c3619e16c2001b3cac7d72cbde8392d0"
 metafile = true
 
 [[files]]
