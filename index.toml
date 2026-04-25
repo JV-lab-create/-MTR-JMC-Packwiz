@@ -1,8 +1,88 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "06c6936f2b6a053261746ea5febde7481163073286446015d71ff91a43595099"
+
+[[files]]
+file = "config/fancymenu/assets/0e745ddcaebaed2331e87bbe6208671488aef7cf.png"
+hash = "9fe54044123bf823256885c0f7857129ca959a2a8ab463fd29f301b8cb849be5"
+
+[[files]]
+file = "config/fancymenu/assets/54573f68b1187ae65a34928a43fb7b4799577489.png"
+hash = "bafaf36d600b91643878518759a44fa0fec44823914fbb34f78ce201692fb299"
+
+[[files]]
+file = "config/fancymenu/assets/minecraft.png"
+hash = "4b6f149bcc32bbe2b3e4b7b73f1ce7e7c9e7b297b5b9040eb5115aeef02e4926"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "7d4410bcfc1dcf3265c53842a57f0f9d95a07131d4de67116a9f65def0bcf54a"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "c7b0611cec2243f994bd54e8eb50a1d008a890c93131bcea7ca9618676083e7d"
+
+[[files]]
+file = "config/fancymenu/customization/death_screen_layout.txt"
+hash = "e3db677a011bf51844e1c9ee4bdecd93ff872b49d708a5dec32777b9ce7141e4"
+
+[[files]]
+file = "config/fancymenu/customization/drippy_loading_overlay_layout.txt"
+hash = "cd257453ae5d6f24463ea52d50b49e88614c2c1903a52fa45cb0f57907bed5fe"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "cc792744bf21b7ecc3ee985ebd4f1846978d56713828df5568be11cb00c3b844"
+
+[[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "c78de970b59e4069f437f78f39d593de5dff050f36f3e18efd5682d912aec04b"
+
+[[files]]
+file = "config/fancymenu/customization/options_screen_layout.txt"
+hash = "9de52afea360293053abc076efed945cdf3f634d91a0e4c2cba6cb2a4313769c"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "5927b63a7260fdd16de81c35f5ef1e94621c8880003658391c59d700519274e0"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "d8a07f34ad775d53b256ac83260e8098aa808899674203d684e48f21679dbf61"
+
+[[files]]
+file = "config/fancymenu/customization/universal_layout.txt"
+hash = "524dcc88f3f1a9d95caec201f9fb574190f88940fbb502ffa08978b9345bc389"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "37e09cc4bce348c61efb02542dcc6e95a91607698b64627391c407933c57ee7b"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
 file = "config/fancymenu/options.txt"
-hash = "a80bc90a2f161731b65860fb387c703bbe57188007643e2f8af7939b57b05594"
+hash = "2f51ba15acb425f8ec38bcb7daae3a1ad2d13f46c02b09ed1e50a515c3eacaa7"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "37104b7662bd2929a4d52d518fed576a993fe0979833d11d7c8e15da2da17f1a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "9485218ff92634e63e1cb6cf0739b9177ddfeef0f5b8e2cc4863b398c0948dcb"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "mods/capes.pw.toml"
