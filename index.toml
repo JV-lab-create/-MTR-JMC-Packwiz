@@ -1,12 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/drippyloadingscreen/options.txt"
-hash = "06c6936f2b6a053261746ea5febde7481163073286446015d71ff91a43595099"
-
-[[files]]
 file = "config/fancymenu/options.txt"
-hash = "2f51ba15acb425f8ec38bcb7daae3a1ad2d13f46c02b09ed1e50a515c3eacaa7"
+hash = "b7646cead2244dca73d6a296d90dcaf7cfcbbb232de6f3b7958918fe795c21a6"
 
 [[files]]
 file = "config/puzzle.json"
