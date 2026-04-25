@@ -382,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "fd9132d36ed19270aa059257192c0a8ad6488fe51a83ea6270b8a852d1a32172"
+hash = "f19c74217c28ee212cda6d03da1bd1fe1a500c088f68d268b44721b51aac2537"
 metafile = true
 
 [[files]]
