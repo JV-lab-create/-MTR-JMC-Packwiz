@@ -317,12 +317,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5b7ac87663d86b0bf4f42ffdd1c190f896bd658408eec523d4f3ae032fba632c"
+hash = "181bfe0cfc3bd30e07dc328dac9fed42705ef5cd1977ee86e48942e8d0e47ee1"
 metafile = true
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
-hash = "4786741456e36b286fc03dab55f4af73767c32f1f672c9a27fcac76c293d5361"
+hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f0ef7eab74d7814ffeed78b33c272295eafc90c43da153f40274e29cbc9f3f21"
+hash = "cab2936a9939350acb6733ebe405e110743f5dfef4afec31ba0d34d759819ced"
 metafile = true
 
 [[files]]
@@ -347,12 +347,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "1acf79ad9940a99ab871cb91140d77fc3b7bb8ae19f49119eafd5de1ced21acb"
+hash = "c6a5c6afaf276bde5c35adb34e21155112b7defd08b83d95a81e435bc6530c42"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "b7a3a0d6a45035899b47d4f800de30d07704fe55c3d0167de298c1ae1e74c298"
+hash = "75e3fb7d66b8e29bfc31b39e123c62c67fcb11d4614f2c6ac16df18a1b5e3eaf"
 metafile = true
 
 [[files]]
