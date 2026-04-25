@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/slideshow-fabric.pw.toml"
-hash = "b511c097eabe5c783a2f7653eda80b89a1e44bc6ef9ec12a947c8f90d2f07941"
+hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
 metafile = true
 
 [[files]]
