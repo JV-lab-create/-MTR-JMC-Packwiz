@@ -189,6 +189,11 @@ hash = "104c4342e55bbeb5c4714dd7fe960490c6e09fff80cd5cf7dea14689bc75007c"
 metafile = true
 
 [[files]]
+file = "mods/list-entry-highlight-fix.pw.toml"
+hash = "a46bed17d96dca163333653ca329b0115bee1643eac61f312886a84457d33740"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "57fc1c61ba53059ccb27647cf44d4b8671ccf284fcd869ec1b6c04a94eb8335e"
 metafile = true
