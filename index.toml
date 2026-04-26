@@ -9,6 +9,11 @@ file = "config/puzzle.json"
 hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "288280484da218b79ece931ada89b1df3cb80a8e7f8a45e9fe06d071584ed6a7"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "157b2335b6bd4af70e30c2808bd2e9b3332f8d2c40528aefe7320ebfbba983f8"
 metafile = true
@@ -66,6 +71,11 @@ metafile = true
 [[files]]
 file = "mods/dynamicpack.pw.toml"
 hash = "2638cbb71436b35449869023394edc6f7baf281c4c3584785fe00813fea8b734"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
 metafile = true
 
 [[files]]
