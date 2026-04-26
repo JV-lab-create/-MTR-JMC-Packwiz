@@ -1,0 +1,13 @@
+name = "Fix Render Order of Tooltips"
+filename = "tooltip-fix-1.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N7ttQXNN/versions/4cEhbqpS/tooltip-fix-1.0.1.jar"
+hash-format = "sha512"
+hash = "218b1291894aa74be32370aab2ebe00218f5febe87c95bb955e510287f34e3af4ac8a7ea939cdaae6cbca09db84b11a157f8fc98caa37924367e03d963436f98"
+
+[update]
+[update.modrinth]
+mod-id = "N7ttQXNN"
+version = "4cEhbqpS"

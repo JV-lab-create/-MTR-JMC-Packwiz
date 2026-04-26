@@ -9,6 +9,11 @@ file = "config/puzzle.json"
 hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
+file = "mods/asahi.pw.toml"
+hash = "830f9c2e949dec3a15b3d2b3e44dbdea5dc29260f385996a23968cc25daf2e88"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "288280484da218b79ece931ada89b1df3cb80a8e7f8a45e9fe06d071584ed6a7"
 metafile = true
@@ -139,6 +144,11 @@ hash = "b9480e9b507930881bda195d5ddebe107084261e5afcd1ab61cc107bef116c61"
 metafile = true
 
 [[files]]
+file = "mods/fix-render-order-of-tooltips.pw.toml"
+hash = "d8c5e3cf3ef4088cbc1c2fccdb5551f6ed9b9c03577c788525aa04a9cc80af9f"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "0deda12c43b8d75a1afb57fd8031edda01e81007dd64d6a297fd883ecf349a3e"
 metafile = true
@@ -234,6 +244,11 @@ hash = "56365fcf55b2679a8f2ceefe5c3f949854d13945963a421d178145d0551b2fac"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c5e7e0a3de03c138f587fc56dca70013978677e0cde2ad19024dc798178a49bd"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "41f0f67ed299e21b9a5a2c42d7e9a66c1a23cf58a8d8ead38f92fe96f1efcae3"
 metafile = true
@@ -241,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "47d13f088de4b921e1145b9bfd3a12a67336dbb902de017921d55547caa3521f"
+metafile = true
+
+[[files]]
+file = "mods/paragraphs.pw.toml"
+hash = "90c9034a488eb1da753bc24f6b07ee181f7867c1e3624f14a25fae15e9bcebf6"
 metafile = true
 
 [[files]]
