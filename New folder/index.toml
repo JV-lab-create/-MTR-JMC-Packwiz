@@ -1,0 +1,29 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/custom-hud/config.json"
+hash = "defb6aff3dcce965c8ddfee9047fc70ce396421d9a15228f35bb93edc6ba9c67"
+
+[[files]]
+file = "config/custom-hud/profiles/Example Profile.txt"
+hash = "ac38bb641c0b6357bcc4c4ce18de83d9d80d642ac2f2a737cc80ad3c25d9fff3"
+
+[[files]]
+file = "config/custom-hud/profiles/F3 Clone.txt"
+hash = "fe7f40b0125df8acb5d2da031bb2e7836579b87fe8dda192e8ddbdc4b05ed90a"
+
+[[files]]
+file = "config/custom-hud/profiles/MyProfile.txt"
+hash = "6e97ee0c6c9e8b95efdcf9b6874eba763ced9a06a3ccdf13338f2c91308c7674"
+
+[[files]]
+file = "config/fancymenu/options_disabled_due_to_annoying_error.disabled"
+hash = "b7646cead2244dca73d6a296d90dcaf7cfcbbb232de6f3b7958918fe795c21a6"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
+
+[[files]]
+file = "config/rphelper/config.json"
+hash = "d3117605e9f0ba9d579bdf1f4a8715d3d88d88c9c4c91901f7268236d91ffd1c"

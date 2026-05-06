@@ -1,0 +1,13 @@
+name = "JMC MTR"
+author = "JMC Team"
+version = "2.2.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60d7078e270ef203eb313dc891b9e493076c02379ce1a52a40243fbe5dd27ce6"
+
+[versions]
+fabric = "0.19.2"
+minecraft = "1.20.4"
