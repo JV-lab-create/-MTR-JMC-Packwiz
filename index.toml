@@ -26,7 +26,7 @@ hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "d3117605e9f0ba9d579bdf1f4a8715d3d88d88c9c4c91901f7268236d91ffd1c"
+hash = "9ca23b1e83739ac056d843ef0aa1a992bafb04b63e701ffd190b72d3b9cfadae"
 
 [[files]]
 file = "mods/asahi.pw.toml"
