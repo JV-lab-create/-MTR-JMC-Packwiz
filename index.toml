@@ -17,7 +17,7 @@ file = "config/custom-hud/profiles/MyProfile.txt"
 hash = "6e97ee0c6c9e8b95efdcf9b6874eba763ced9a06a3ccdf13338f2c91308c7674"
 
 [[files]]
-file = "config/fancymenu/options_disabled_due_to_annoying_error.disabled"
+file = "config/fancymenu/options.txt"
 hash = "b7646cead2244dca73d6a296d90dcaf7cfcbbb232de6f3b7958918fe795c21a6"
 
 [[files]]
