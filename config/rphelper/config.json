@@ -1,0 +1,48 @@
+{
+  "packs": [
+    {
+      "sourceUrl": "https://cdn.modrinth.com/data/tN4E9NfV/versions/K1LufHwW/Chat%20Reporting%20Helper.zip",
+      "sha1": "8d62a7007cba3dc9be68a72bfdd647bcdd803f53",
+      "fileName": "Chat Reporting Helper.zip",
+      "name": "Chat Reporting Helper",
+      "order": 12
+    },
+    {
+      "sourceUrl": "https://cdn.modrinth.com/data/AXHibzcj/versions/OdDxvApZ/twemoji.zip",
+      "sha1": "da1ee0302901aeb6497efa6ce964a430a0cce147",
+      "fileName": "Twemoji.zip",
+      "name": "Twemoji",
+      "order": 12
+    },
+    {
+      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/Old/Old-ResourcePack.zip",
+      "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/New-ResourcePack/sha1",
+      "fileName": "JMC MTR Resources Old Pack ✅.zip",
+      "equivPacks": ["file/pack_yer"],
+      "name": "Pack #1",
+      "order": 11
+    },
+    {
+      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/New/New-ResourcePack.zip",
+      "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/Old-ResourcePack/sha1",
+      "fileName": "JMC MTR Resources New Pack ✅.zip",
+      "equivPacks": ["file/pack_kcr"],
+      "name": "Pack #2",
+      "order": 10
+    }
+  ],
+  "requestTimeoutSec": 10,
+  "appearance": {
+    "normal_texture": "rphelper:textures/normal_texture.png",
+    "error_texture": "rphelper:textures/error_texture.png",
+    "icon_texture": "rphelper:textures/icon_texture.png",
+    "icon_size": 25,
+    "normal_title_color": "0xFFFFFF",
+    "normal_description_color": "0xFFFFFF",
+    "error_title_color": "0xFF0000",
+    "error_description_color": "0xFF0000",
+    "width": 180,
+    "height": 32,
+    "duration": 5000
+  }
+}
