@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "New folder/index.toml"
+hash = "76d5b4eb6d46470b25c71603b211bc1fbaa8e633e8626fbcbed7f5070ba95aa6"
+
+[[files]]
 file = "config/custom-hud/config.json"
 hash = "defb6aff3dcce965c8ddfee9047fc70ce396421d9a15228f35bb93edc6ba9c67"
 
@@ -26,7 +30,7 @@ hash = "592da77b12a161665aff9e497b797f0d3abc9469b904b7d26ac336f9b5ec081c"
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "9ca23b1e83739ac056d843ef0aa1a992bafb04b63e701ffd190b72d3b9cfadae"
+hash = "d3857c2d970d53a8cda018a29d5df274cb5cd74d6eba4b43a72379fcf6861e3d"
 
 [[files]]
 file = "mods/asahi.pw.toml"
