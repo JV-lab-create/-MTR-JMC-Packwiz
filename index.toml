@@ -400,16 +400,6 @@ hash = "c86ba4054f61758a37ddad42828236b79a6f409ec5cc49c1bfcd34aeea80ff6c"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "ac864c3d643a5dd028abbd6a417109ecc3219220cc8e1e3ab7badb04e0450277"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-radio.pw.toml"
-hash = "f2bcf28e72be802666351e169c3301f12d8a4487b6b71e7c3b885b20954bba2c"
-metafile = true
-
-[[files]]
 file = "mods/slideshow-fabric.pw.toml"
 hash = "e94c10cc685e2b6de37dc41f133918cb3a6ea1a1a72e782f2b4cffd0fc0a82a4"
 metafile = true
