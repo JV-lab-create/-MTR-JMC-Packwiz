@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "1f005cfa3ecb3c99b1cbe4e339beb74d17e334839384f61899376a2481c691f1"
+hash = "8435fe34f180c963234295c6bf8de293b3450d74f2ab74389ac9bdf198d84612"
 metafile = true
 
 [[files]]
@@ -247,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "0deda12c43b8d75a1afb57fd8031edda01e81007dd64d6a297fd883ecf349a3e"
+metafile = true
+
+[[files]]
+file = "mods/gcaps.pw.toml"
+hash = "8864d9db797deb5f0d9c569d649b9d03533e0398df6856fed865a007bc49efbd"
 metafile = true
 
 [[files]]
