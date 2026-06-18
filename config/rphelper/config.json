@@ -5,49 +5,56 @@
       "sha1": "8d62a7007cba3dc9be68a72bfdd647bcdd803f53",
       "fileName": "Chat Reporting Helper.zip",
       "name": "Chat Reporting Helper",
-      "order": 4
+      "order": 8
     },
     {
       "sourceUrl": "https://cdn.modrinth.com/data/AXHibzcj/versions/OdDxvApZ/twemoji.zip",
       "sha1": "da1ee0302901aeb6497efa6ce964a430a0cce147",
       "fileName": "Twemoji.zip",
       "name": "Twemoji",
-      "order": 3
+      "order": 7
     },
     {
       "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/Old/Old-ResourcePack.zip",
       "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/Old-ResourcePack/sha1",
       "fileName": "✅ Pack 1.zip",
       "name": "Pack #1",
-      "order": 2
+      "order": 6
     },
     {
       "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/New/New-ResourcePack.zip",
       "sha1Url": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/New-ResourcePack/sha1",
       "fileName": "✅ Pack 2.zip",
       "name": "Pack #2",
-      "order": 1
+      "order": 5
     },
     {
       "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/v4.0.0-retecture/Retecture-ResourcePack.zip",
       "sha1Url": "https://github.com/JV-lab-create/Server-Resorucepack/raw/refs/heads/main/Retecture-ResourcePack/sha1",
       "fileName": "✅ JMC MTR Pack 3.zip",
       "name": "JMC MTR Pack #3",
-      "order": 2
+      "order": 4
+    },
+    {
+      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/new-two/New-Two.zip",
+      "sha1Url": "https://github.com/JV-lab-create/Server-Resorucepack/raw/refs/heads/main/New-Two/sha1.txt",
+      "fileName": "✅ JMC MTR Pack 3.zip",
+      "name": "JMC MTR Pack #4",
+      "order": 3
     },
     {
       "sourceUrl": "https://github.com/JV-lab-create/-MTR-JMC-Packwiz/raw/refs/heads/main/resourcepacks/MTR%20Brand%20Pack.zip",
       "sha1": "df755bbe091bbe20cfaeaac28811d00fac2c7457",
       "fileName": "MTR Brand Pack.zip",
       "name": "MTR Brand Pack",
-      "order": 5
+      "order": 2
     },
     {
       "sourceUrl": "https://cdn.modrinth.com/data/bJsUynk6/versions/BqdO6AgX/Leah%27s%20Freight%20Pack%20v1.0.0-hotfix2.zip",
       "sha1": "0877855e03dde4be2f2d132b31afce95209f7fd9",
       "fileName": "✅ Leah's Freight Pack.zip",
       "name": "Leah's Freight Pack",
-      "order": 6
+      "order": 1
     }
   ],
   "requestTimeoutSec": 10,
