@@ -1,0 +1,13 @@
+name = "JMC MTR Resources"
+filename = "jmcmtrres.jar"
+side = "both"
+
+[download]
+url = "https://github.com/JV-lab-create/Server-Resourcepack-Extras/releases/download/vmod1/jmcmtrres-1.0.0.jar"
+hash-format = "sha256"
+hash = "sha256:b6e87a501321de92b0c176b80d99aa493ec743e03d72bdb1728ae51ce17b3618"
+
+[update]
+[update.modrinth]
+mod-id = "89Wsn8GD"
+version = "dEq1ncBU"
