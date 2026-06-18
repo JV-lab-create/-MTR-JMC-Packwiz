@@ -270,11 +270,6 @@ hash = "92a5f843c1680a17261a7fcf1b0ae09238e4c7688162ae98c3acc3da7cd5ac82"
 metafile = true
 
 [[files]]
-file = "mods/jmcmtrres.pw.toml"
-hash = "4fd752b02513bff324ce80d105c1c729535cad3ac34aa345b1ca838eb06b2190"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "e2fbfd4cfd2eae73e54fb25485abb2a4c364cd896e01d1bc5f8dd01c09bb4210"
 metafile = true
