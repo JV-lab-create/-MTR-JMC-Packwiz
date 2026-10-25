@@ -400,6 +400,11 @@ hash = "181bfe0cfc3bd30e07dc328dac9fed42705ef5cd1977ee86e48942e8d0e47ee1"
 metafile = true
 
 [[files]]
+file = "mods/rphelper.pw.toml"
+hash = "d803e34426821bd5f1d7cc2794758118d560f22a54af5bbb2485bdd65a7075a0"
+metafile = true
+
+[[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "73a9839e338fbfb4d8b63eb3a274daf8557fab45932085b371dec3ce8cbf5577"
 metafile = true

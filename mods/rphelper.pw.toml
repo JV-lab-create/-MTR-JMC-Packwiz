@@ -1,0 +1,11 @@
+name = "RPHelper"
+filename = "rphelper.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Browndog7912/RPHelper/releases/download/v1.0.0/RPHelper-main-1.3.2+mc1.20.4.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "8d12f3b5d25e656d6d3e85d9f305113af275841623d78461bdcbabbdca057081"
