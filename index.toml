@@ -125,6 +125,11 @@ hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
 metafile = true
 
 [[files]]
+file = "mods/cc-peripherals.pw.toml"
+hash = "359d2376ad93adbc6b211eb7bf50abc7570c81439e4d0b277c593047f877b5cd"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "7b9eace19e17969028542ad9bd29e99ef4143e36693f2fbf79315ef91f927767"
 metafile = true
@@ -372,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/paragraphs.pw.toml"
 hash = "90c9034a488eb1da753bc24f6b07ee181f7867c1e3624f14a25fae15e9bcebf6"
+metafile = true
+
+[[files]]
+file = "mods/phonebook.pw.toml"
+hash = "030ed98118a3986f934c19e31c7bee92df50dd925cb851257c8177acd496d62c"
 metafile = true
 
 [[files]]
