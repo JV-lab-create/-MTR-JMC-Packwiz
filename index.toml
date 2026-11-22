@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-peripherals.pw.toml"
-hash = "359d2376ad93adbc6b211eb7bf50abc7570c81439e4d0b277c593047f877b5cd"
+hash = "a166ac2dbcadab368d5b16466a0a7834bc789f09a3cf003014f71421483b84f7"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/phonebook.pw.toml"
-hash = "030ed98118a3986f934c19e31c7bee92df50dd925cb851257c8177acd496d62c"
+hash = "8d036b20e7b96a1a91c992a77f406a2f63a1040c299873350e548db62ea1b929"
 metafile = true
 
 [[files]]

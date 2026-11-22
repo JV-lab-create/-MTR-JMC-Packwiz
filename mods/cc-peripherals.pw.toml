@@ -1,5 +1,5 @@
-name = "RPHelper"
-filename = "rphelper.jar"
+name = "CC-Peripherals"
+filename = "cc-perf.jar"
 side = "both"
 
 [download]

@@ -1,5 +1,5 @@
-name = "RPHelper"
-filename = "rphelper.jar"
+name = "Phonebook"
+filename = "phonebook.jar"
 side = "both"
 
 [download]
