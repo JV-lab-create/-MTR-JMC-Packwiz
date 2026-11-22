@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-peripherals.pw.toml"
-hash = "7e4fcfdb8a881869ce0d206559c913575ce47dbeeb2dc9ab5ac1bfe8d3e7c429"
+hash = "0e8ada940c5cf5f79f9f634d326c76d6e8e438cd8ed5e2916e45c48406152394"
 metafile = true
 
 [[files]]
