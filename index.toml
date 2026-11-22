@@ -530,3 +530,7 @@ hash = "e8fc60f010a1ebad667a173b6501c48f741e0505e80eeccb677bd45d22f4a164"
 [[files]]
 file = "resourcepacks/SodiumTranslations.zip"
 hash = "29db556292b58f9b3833aef54c89aabab7866623a1c4c58995a6ddcd82bcbbcd"
+
+[[files]]
+file = "update.bat"
+hash = "68053f3c7274acce1c5f9511e3cd7f8e4a186dc2af5c19446009deac54945295"
