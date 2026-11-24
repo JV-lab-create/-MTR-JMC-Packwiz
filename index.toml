@@ -320,6 +320,11 @@ hash = "50fb2d4e1fa252cbe7cee4983047c4b657fef71d0e8c9c0df91b3b46048f571f"
 metafile = true
 
 [[files]]
+file = "mods/mineturismo.pw.toml"
+hash = "ce31ad61fed861bdbfbe2a627c5c8913ca047938795421e27f6383301f6265f9"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
 metafile = true
