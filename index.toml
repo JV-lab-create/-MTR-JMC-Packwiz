@@ -125,8 +125,13 @@ hash = "9893fe702bc0669b40982f197d14cd227e23c62550e2d84af9f0db346806caff"
 metafile = true
 
 [[files]]
+file = "mods/cc-furniture.pw.toml"
+hash = "a795dd83dec2367b40cdf20e958db1cfd2dfa2fd245926a27181e63b2cad435a"
+metafile = true
+
+[[files]]
 file = "mods/cc-peripherals.pw.toml"
-hash = "b9a554c8eef1741c416209fd20bbbce4ec1beb9eb8e678351a8cbaad78333f66"
+hash = "29c60c3face3943f2a9e8de141556caa1f758eebdd1539982c02084162ad48ae"
 metafile = true
 
 [[files]]
