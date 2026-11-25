@@ -1,0 +1,13 @@
+name = "Macaw's Paintings"
+filename = "mcw-paintings-1.1.0-mc1.20.4fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/okE6QVAY/versions/4sZYhvJ7/mcw-paintings-1.1.0-mc1.20.4fabric.jar"
+hash-format = "sha512"
+hash = "508903fc2b04dd58676031ca644e46a9feff71d50d2912eeae2d940d56e5fc193bad55c3e1c2a4df7f56e082bcefb05c462b6cb9451b34822ca39a6a8ec23f8d"
+
+[update]
+[update.modrinth]
+mod-id = "okE6QVAY"
+version = "4sZYhvJ7"

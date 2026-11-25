@@ -1,0 +1,13 @@
+name = "Macaw's Doors"
+filename = "mcw-doors-1.1.5-mc1.20.4fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/8l41DNKc/mcw-doors-1.1.5-mc1.20.4fabric.jar"
+hash-format = "sha512"
+hash = "0de8ce9b12f7fe5c27a4d40a314e47f03dd2cabeebc9b2391cafcd6cc26d091f01dbecb0a411dbdc71c354c0bcc99a613551a9085922a254864ce5fb922d70ba"
+
+[update]
+[update.modrinth]
+mod-id = "kNxa8z3e"
+version = "8l41DNKc"
