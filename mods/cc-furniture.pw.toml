@@ -8,4 +8,4 @@ url = "https://github.com/Browndog7912/CC-Furniture/releases/download/v1.0.3/cc-
 # A number of tools can generate the hash for you, including 7-zip and sha256sum
 # packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
 hash-format = "sha256"
-hash = "89f5fff70d1192fd00a123522d8f0db79e001b787de4c2b9701b3e9cfacef6fb"
+hash = "c957169d852edc4d8e073488715fb067a3178705313c07d271655400854fb57a"

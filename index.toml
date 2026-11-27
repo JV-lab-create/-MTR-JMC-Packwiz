@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-furniture.pw.toml"
-hash = "848ef764b8609c443a3ae14fd8c28f0013d63e3f9381b695fd2e2f16aefeb0d6"
+hash = "fe3a5c9b49818df2ae3a1860410e975d87db8cd8e7f10a6ceb2d76d1588d50f9"
 metafile = true
 
 [[files]]
